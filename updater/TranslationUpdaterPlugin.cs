@@ -1,0 +1,360 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Net.Http;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
+using BepInEx;
+using BepInEx.Configuration;
+using UnityEngine;
+
+namespace GWYFTranslationUpdater;
+
+[BepInPlugin("codex.gwyf.translationupdater", "GWYF Translation Updater", "0.1.0")]
+public sealed class TranslationUpdaterPlugin : BaseUnityPlugin
+{
+    private ConfigEntry<bool> _enabled = null!;
+    private ConfigEntry<bool> _autoUpdateOnStartup = null!;
+    private ConfigEntry<float> _startupDelaySeconds = null!;
+    private ConfigEntry<float> _commandPollSeconds = null!;
+    private ConfigEntry<string> _manifestUrl = null!;
+    private ConfigEntry<string> _rawBaseUrl = null!;
+    private ConfigEntry<bool> _deleteMissingFiles = null!;
+
+    private string _translationRoot = null!;
+    private string _dataDirectory = null!;
+    private string _commandsPath = null!;
+    private string _statusPath = null!;
+    private string _manifestCachePath = null!;
+    private string _readmePath = null!;
+
+    private float _nextCommandPollAt;
+    private float _startupCheckAt;
+    private bool _startupUpdateQueued;
+    private DateTime _lastCommandWriteTimeUtc = DateTime.MinValue;
+    private Task? _updateTask;
+
+    private static readonly HttpClient HttpClient = new HttpClient
+    {
+        Timeout = TimeSpan.FromSeconds(45)
+    };
+
+    private void Awake()
+    {
+        _enabled = Config.Bind("General", "Enabled", true, "Enable automatic translation updates.");
+        _autoUpdateOnStartup = Config.Bind("General", "AutoUpdateOnStartup", true, "Check the remote translation repository shortly after the game starts.");
+        _startupDelaySeconds = Config.Bind("General", "StartupDelaySeconds", 8f, "Delay before the startup update check.");
+        _commandPollSeconds = Config.Bind("General", "CommandPollSeconds", 1.5f, "How often to poll commands.txt.");
+        _manifestUrl = Config.Bind("Remote", "ManifestUrl", "https://raw.githubusercontent.com/XoF-eLtTiL/GWYF-zhtw-Translation/main/manifest.txt", "Raw GitHub URL to manifest.txt.");
+        _rawBaseUrl = Config.Bind("Remote", "RawBaseUrl", "https://raw.githubusercontent.com/XoF-eLtTiL/GWYF-zhtw-Translation/main/translations", "Raw GitHub base URL that contains zh-TW files.");
+        _deleteMissingFiles = Config.Bind("Sync", "DeleteMissingFiles", false, "Delete local translation files that are not listed in the remote manifest.");
+
+        _translationRoot = Path.Combine(Paths.GameRootPath, "BepInEx", "Translation");
+        _dataDirectory = Path.Combine(Paths.ConfigPath, "GWYF.TranslationUpdater");
+        _commandsPath = Path.Combine(_dataDirectory, "commands.txt");
+        _statusPath = Path.Combine(_dataDirectory, "status.txt");
+        _manifestCachePath = Path.Combine(_dataDirectory, "last_manifest.txt");
+        _readmePath = Path.Combine(_dataDirectory, "README.txt");
+
+        Directory.CreateDirectory(_dataDirectory);
+        EnsureFileExists(_commandsPath,
+            "# commands: update, force, status" + Environment.NewLine +
+            "# update -> update only changed files" + Environment.NewLine +
+            "# force  -> re-download all files listed in manifest");
+        EnsureFileExists(_readmePath,
+            "GWYF Translation Updater" + Environment.NewLine +
+            "1. ManifestUrl and RawBaseUrl already point to XoF-eLtTiL/GWYF-zhtw-Translation by default." + Environment.NewLine +
+            "2. Put 'update' or 'force' into commands.txt to trigger a sync." + Environment.NewLine +
+            "3. The updater writes progress to status.txt.");
+
+        _startupCheckAt = Time.unscaledTime + Mathf.Max(1f, _startupDelaySeconds.Value);
+        WriteStatus("Translation updater ready.");
+    }
+
+    private void Update()
+    {
+        if (!_enabled.Value)
+        {
+            return;
+        }
+
+        if (!_startupUpdateQueued && _autoUpdateOnStartup.Value && Time.unscaledTime >= _startupCheckAt)
+        {
+            _startupUpdateQueued = true;
+            TriggerUpdate(force: false, "startup");
+        }
+
+        if (Time.unscaledTime >= _nextCommandPollAt)
+        {
+            _nextCommandPollAt = Time.unscaledTime + Mathf.Max(0.25f, _commandPollSeconds.Value);
+            ProcessCommandsIfChanged();
+        }
+    }
+
+    private void ProcessCommandsIfChanged()
+    {
+        if (!File.Exists(_commandsPath))
+        {
+            return;
+        }
+
+        DateTime writeTime = File.GetLastWriteTimeUtc(_commandsPath);
+        if (writeTime <= _lastCommandWriteTimeUtc)
+        {
+            return;
+        }
+
+        _lastCommandWriteTimeUtc = writeTime;
+        string[] commands = File.ReadAllLines(_commandsPath);
+        bool hasRealCommands = commands.Any(line => !string.IsNullOrWhiteSpace(line) && !line.TrimStart().StartsWith("#", StringComparison.Ordinal));
+        if (!hasRealCommands)
+        {
+            return;
+        }
+
+        foreach (string rawLine in commands)
+        {
+            string line = rawLine.Trim();
+            if (string.IsNullOrWhiteSpace(line) || line.StartsWith("#", StringComparison.Ordinal))
+            {
+                continue;
+            }
+
+            switch (line.ToLowerInvariant())
+            {
+                case "update":
+                    TriggerUpdate(force: false, "manual");
+                    break;
+                case "force":
+                    TriggerUpdate(force: true, "manual-force");
+                    break;
+                case "status":
+                    WriteStatus("Updater is idle.");
+                    break;
+                default:
+                    WriteStatus($"Unknown updater command: {line}");
+                    break;
+            }
+        }
+
+        File.WriteAllText(_commandsPath, "# commands processed" + Environment.NewLine);
+    }
+
+    private void TriggerUpdate(bool force, string reason)
+    {
+        if (_updateTask != null && !_updateTask.IsCompleted)
+        {
+            WriteStatus($"Update already running. Ignored {reason} request.");
+            return;
+        }
+
+        if (IsPlaceholderUrl(_manifestUrl.Value) || IsPlaceholderUrl(_rawBaseUrl.Value))
+        {
+            WriteStatus("ManifestUrl or RawBaseUrl is not configured.");
+            return;
+        }
+
+        _updateTask = RunUpdateAsync(force, reason);
+    }
+
+    private async Task RunUpdateAsync(bool force, string reason)
+    {
+        try
+        {
+            WriteStatus($"Checking remote translations ({reason})...");
+            string manifestText = await HttpClient.GetStringAsync(_manifestUrl.Value.Trim());
+            List<ManifestEntry> remoteEntries = ParseManifest(manifestText);
+            if (remoteEntries.Count == 0)
+            {
+                WriteStatus("Remote manifest is empty.");
+                return;
+            }
+
+            int downloaded = 0;
+            foreach (ManifestEntry entry in remoteEntries)
+            {
+                string localPath = Path.Combine(_translationRoot, entry.RelativePath.Replace('/', Path.DirectorySeparatorChar));
+                string localHash = File.Exists(localPath) ? ComputeFileSha256(localPath) : string.Empty;
+                if (!force && string.Equals(localHash, entry.Sha256, StringComparison.OrdinalIgnoreCase))
+                {
+                    continue;
+                }
+
+                string remoteUrl = BuildRawFileUrl(_rawBaseUrl.Value.Trim(), entry.RelativePath);
+                byte[] content = await HttpClient.GetByteArrayAsync(remoteUrl);
+                string contentHash = ComputeSha256(content);
+                if (!string.Equals(contentHash, entry.Sha256, StringComparison.OrdinalIgnoreCase))
+                {
+                    WriteStatus($"Hash mismatch for {entry.RelativePath}. Skipped.");
+                    continue;
+                }
+
+                Directory.CreateDirectory(Path.GetDirectoryName(localPath) ?? _translationRoot);
+                File.WriteAllBytes(localPath, content);
+                downloaded++;
+                Logger.LogInfo($"Updated translation file: {entry.RelativePath}");
+            }
+
+            if (_deleteMissingFiles.Value)
+            {
+                DeleteFilesMissingFromManifest(remoteEntries);
+            }
+
+            File.WriteAllText(_manifestCachePath, manifestText, Encoding.UTF8);
+            WriteStatus($"Translation sync complete. Updated {downloaded} file(s) from {remoteEntries.Count} manifest entries.");
+        }
+        catch (Exception ex)
+        {
+            Logger.LogError(ex);
+            WriteStatus($"Translation sync failed: {ex.Message}");
+        }
+    }
+
+    private void DeleteFilesMissingFromManifest(List<ManifestEntry> remoteEntries)
+    {
+        HashSet<string> allowed = new HashSet<string>(
+            remoteEntries.Select(entry => NormalizeRelativePath(entry.RelativePath)),
+            StringComparer.OrdinalIgnoreCase);
+
+        if (!Directory.Exists(_translationRoot))
+        {
+            return;
+        }
+
+        foreach (string file in Directory.GetFiles(_translationRoot, "*", SearchOption.AllDirectories))
+        {
+            string relative = NormalizeRelativePath(GetRelativePathCompat(_translationRoot, file));
+            if (!allowed.Contains(relative))
+            {
+                File.Delete(file);
+                Logger.LogInfo($"Deleted translation file not listed in manifest: {relative}");
+            }
+        }
+    }
+
+    private static List<ManifestEntry> ParseManifest(string manifestText)
+    {
+        List<ManifestEntry> entries = new List<ManifestEntry>();
+        foreach (string rawLine in manifestText.Split(new[] { "\r\n", "\n" }, StringSplitOptions.None))
+        {
+            string line = rawLine.Trim();
+            if (string.IsNullOrWhiteSpace(line) || line.StartsWith("#", StringComparison.Ordinal))
+            {
+                continue;
+            }
+
+            string[] parts = line.Split('|');
+            if (parts.Length < 2)
+            {
+                continue;
+            }
+
+            string relativePath = NormalizeRelativePath(parts[0]);
+            string sha256 = parts[1].Trim();
+            long size = 0;
+            if (parts.Length >= 3)
+            {
+                long.TryParse(parts[2].Trim(), out size);
+            }
+
+            entries.Add(new ManifestEntry(relativePath, sha256, size));
+        }
+
+        return entries;
+    }
+
+    private static string NormalizeRelativePath(string path)
+    {
+        return (path ?? string.Empty).Trim().Replace('\\', '/');
+    }
+
+    private static string BuildRawFileUrl(string baseUrl, string relativePath)
+    {
+        string trimmedBase = baseUrl.TrimEnd('/');
+        string[] segments = NormalizeRelativePath(relativePath)
+            .Split(new[] { '/' }, StringSplitOptions.RemoveEmptyEntries)
+            .Select(Uri.EscapeDataString)
+            .ToArray();
+        return trimmedBase + "/" + string.Join("/", segments);
+    }
+
+    private static bool IsPlaceholderUrl(string value)
+    {
+        return string.IsNullOrWhiteSpace(value) || value.IndexOf("REPLACE_ME", StringComparison.OrdinalIgnoreCase) >= 0;
+    }
+
+    private static string ComputeFileSha256(string filePath)
+    {
+        using FileStream stream = File.OpenRead(filePath);
+        using SHA256 sha = SHA256.Create();
+        byte[] hash = sha.ComputeHash(stream);
+        return ConvertToHex(hash);
+    }
+
+    private static string ComputeSha256(byte[] content)
+    {
+        using SHA256 sha = SHA256.Create();
+        return ConvertToHex(sha.ComputeHash(content));
+    }
+
+    private static string ConvertToHex(byte[] bytes)
+    {
+        StringBuilder builder = new StringBuilder(bytes.Length * 2);
+        foreach (byte value in bytes)
+        {
+            builder.Append(value.ToString("x2"));
+        }
+
+        return builder.ToString();
+    }
+
+    private static string GetRelativePathCompat(string basePath, string targetPath)
+    {
+        Uri baseUri = new Uri(AppendDirectorySeparator(basePath));
+        Uri targetUri = new Uri(targetPath);
+        string relative = Uri.UnescapeDataString(baseUri.MakeRelativeUri(targetUri).ToString());
+        return relative.Replace('/', Path.DirectorySeparatorChar);
+    }
+
+    private static string AppendDirectorySeparator(string path)
+    {
+        if (string.IsNullOrEmpty(path))
+        {
+            return Path.DirectorySeparatorChar.ToString();
+        }
+
+        return path.EndsWith(Path.DirectorySeparatorChar.ToString(), StringComparison.Ordinal)
+            ? path
+            : path + Path.DirectorySeparatorChar;
+    }
+
+    private void WriteStatus(string message)
+    {
+        Logger.LogInfo(message);
+        File.WriteAllText(_statusPath, $"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}] {message}{Environment.NewLine}", Encoding.UTF8);
+    }
+
+    private static void EnsureFileExists(string path, string content)
+    {
+        if (!File.Exists(path))
+        {
+            File.WriteAllText(path, content + Environment.NewLine, Encoding.UTF8);
+        }
+    }
+
+    private sealed class ManifestEntry
+    {
+        public ManifestEntry(string relativePath, string sha256, long size)
+        {
+            RelativePath = relativePath;
+            Sha256 = sha256;
+            Size = size;
+        }
+
+        public string RelativePath { get; }
+        public string Sha256 { get; }
+        public long Size { get; }
+    }
+}
