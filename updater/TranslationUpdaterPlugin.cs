@@ -32,7 +32,7 @@ public sealed class TranslationUpdaterPlugin : BaseUnityPlugin
 
     private float _nextCommandPollAt;
     private float _startupCheckAt;
-    private bool _startupUpdateQueued;
+    private bool _startupUpdateTriggered;
     private DateTime _lastCommandWriteTimeUtc = DateTime.MinValue;
     private Task? _updateTask;
 
@@ -45,7 +45,7 @@ public sealed class TranslationUpdaterPlugin : BaseUnityPlugin
     {
         _enabled = Config.Bind("General", "Enabled", true, "Enable automatic translation updates.");
         _autoUpdateOnStartup = Config.Bind("General", "AutoUpdateOnStartup", true, "Check the remote translation repository shortly after the game starts.");
-        _startupDelaySeconds = Config.Bind("General", "StartupDelaySeconds", 8f, "Delay before the startup update check.");
+        _startupDelaySeconds = Config.Bind("General", "StartupDelaySeconds", 1.5f, "Delay before the startup update check.");
         _commandPollSeconds = Config.Bind("General", "CommandPollSeconds", 1.5f, "How often to poll commands.txt.");
         _manifestUrl = Config.Bind("Remote", "ManifestUrl", "https://raw.githubusercontent.com/XoF-eLtTiL/GWYF-zhtw-Translation/main/manifest.txt", "Raw GitHub URL to manifest.txt.");
         _rawBaseUrl = Config.Bind("Remote", "RawBaseUrl", "https://raw.githubusercontent.com/XoF-eLtTiL/GWYF-zhtw-Translation/main/translations", "Raw GitHub base URL that contains zh-TW files.");
@@ -69,8 +69,27 @@ public sealed class TranslationUpdaterPlugin : BaseUnityPlugin
             "2. Put 'update' or 'force' into commands.txt to trigger a sync." + Environment.NewLine +
             "3. The updater writes progress to status.txt.");
 
-        _startupCheckAt = Time.unscaledTime + Mathf.Max(1f, _startupDelaySeconds.Value);
         WriteStatus("Translation updater ready.");
+    }
+
+    private void Start()
+    {
+        if (!_enabled.Value || !_autoUpdateOnStartup.Value)
+        {
+            return;
+        }
+
+        float delay = Mathf.Max(0f, _startupDelaySeconds.Value);
+        if (delay <= 0.01f)
+        {
+            _startupUpdateTriggered = true;
+            WriteStatus("Startup translation sync requested immediately.");
+            TriggerUpdate(force: false, "startup");
+            return;
+        }
+
+        _startupCheckAt = Time.unscaledTime + delay;
+        WriteStatus($"Startup translation sync scheduled in {delay:0.##}s.");
     }
 
     private void Update()
@@ -80,9 +99,9 @@ public sealed class TranslationUpdaterPlugin : BaseUnityPlugin
             return;
         }
 
-        if (!_startupUpdateQueued && _autoUpdateOnStartup.Value && Time.unscaledTime >= _startupCheckAt)
+        if (!_startupUpdateTriggered && _autoUpdateOnStartup.Value && Time.unscaledTime >= _startupCheckAt)
         {
-            _startupUpdateQueued = true;
+            _startupUpdateTriggered = true;
             TriggerUpdate(force: false, "startup");
         }
 
