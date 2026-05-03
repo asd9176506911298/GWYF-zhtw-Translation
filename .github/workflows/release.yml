@@ -1,0 +1,28 @@
+name: Publish Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verify assets
+        run: |
+          test -f "releases/GWYF-zhtw-Translation-Pack-${GITHUB_REF_NAME}.zip"
+          test -f "releases/RELEASE-${GITHUB_REF_NAME}.md"
+
+      - name: Create GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          body_path: releases/RELEASE-${{ github.ref_name }}.md
+          files: |
+            releases/GWYF-zhtw-Translation-Pack-${{ github.ref_name }}.zip
