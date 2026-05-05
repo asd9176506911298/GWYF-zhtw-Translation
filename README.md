@@ -7,7 +7,14 @@
 - 提供這款遊戲的 `zh-TW` 翻譯文本
 - 提供翻譯貼圖資源
 - 提供自動更新翻譯文件的 BepInEx 模組原始碼
-- 提供 release 用的完整安裝包
+- 提供公開版 release 安裝包
+
+不包含：
+
+- 私人的加入方法
+- 私人的伺服器列表 / Lobby 工具
+- 私人的 moderation / 管理功能
+- 其他私人插件
 
 內容包含：
 
@@ -15,14 +22,14 @@
 - `manifest.txt`：給自動更新模組比對版本與檔案雜湊用
 - `scripts/Update-Manifest.ps1`：每次修改翻譯後重建 manifest
 - `updater/`：BepInEx 自動更新翻譯模組原始碼
-- `releases/`：完整模組包與 release 說明
+- `releases/`：公開版模組包與 release 說明
 
 ## 這是什麼
 
 如果你是玩家，這個 repo 可以讓你：
 
 - 安裝 `Gamble With Your Friends` 的繁體中文翻譯
-- 下載包含 `BepInEx + XUnity + 翻譯文本 + 自製插件` 的完整模組包
+- 下載包含 `BepInEx + XUnity + 翻譯文本 + 自動更新翻譯模組` 的公開模組包
 - 透過 updater 在遊戲啟動時自動同步最新翻譯
 
 如果你是協作者，這個 repo 可以讓你：
