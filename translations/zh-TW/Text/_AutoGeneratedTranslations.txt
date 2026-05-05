@@ -1,1401 +1,231 @@
-﻿Members: {{A}} | State: lobby | Code: {{B}}=會員：{{A}} |狀態： 大廳 |代碼：{{B}}
-{{A}}'s Lobby={{A}} 大廳
-Status: Lobby refresh requested.=狀態：請求大廳刷新。
-Data: GameStarted\={{A}};HostAddress\={{B}};name\=黑暗骑士毁灭者收割者's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};name\=黑闇騎士毀滅者收割者的大廳;SelectedScene\=Gameplay
-黑暗骑士毁灭者收割者's Lobby=黑闇騎士毀滅者收割者的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=漆黒の堕天使's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=漆黒の墮天使大廳;SelectedScene\=Gameplay
-漆黒の堕天使's Lobby=漆黒の墮天使的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=毛mao's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=毛毛的大廳;SelectedScene\=Gameplay
-毛mao's Lobby=毛毛的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=她說戴了不算給's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=她說戴了不算給的大廳;SelectedScene\=Gameplay
-她說戴了不算給's Lobby=她說戴了不算給的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=あまぎ's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=あまぎ的大廳;SelectedScene\=Gameplay
-あまぎ's Lobby=あまぎ的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=あいばにーず's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=あいばにーず的大廳;SelectedScene\=Gameplay
-あいばにーず's Lobby=あいばにーず的大厅
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Zane Dase's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Zane Dase 的大廳;SelectedScene\=Gameplay
-Zane Dase's Lobby=贊恩·達斯的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Ushimegu's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Ushimegu's Lobby;SelectedScene\=Gameplay
-Ushimegu's Lobby=牛目宮的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Sy{{D}}fu_chan{{E}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Sy{{D}}fu_chan{{E}} 的大廳;SelectedScene\=Gameplay
-Sy{{A}}fu_chan{{B}}'s Lobby=Sy{{A}}fu_chan{{B}} 的大厅
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=qqq's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=qq的大廳;SelectedScene\=Gameplay
-qqq's Lobby=qq的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=PayZickk's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=PayZickk 大廳;SelectedScene\=Gameplay
-PayZickk's Lobby=PayZickk 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=nakajihimajin{{D}}'s Lobby;SelectedScene\=Gameplay=Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=nakajihimajin{{D}}'s Lobby;SelectedScene\=Gameplay
-nakajihimajin{{A}}'s Lobby=中地希瑪神{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=kinda hungry's Lobby;SelectedScene\=Gameplay=数据：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=有点饿的大厅;SelectedScene\=Gameplay
-kinda hungry's Lobby=有點餓的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Durzcha's Lobby;SelectedScene\=Gameplay=数据：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Durzcha 大厅;SelectedScene\=Gameplay
-Durzcha's Lobby=杜爾查飯店的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ĐŘΔƗҜ's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ĐŘΔƗhad's Lobby;SelectedScene\=Gameplay
-ĐŘΔƗҜ's Lobby=ĐŘΔƗ̜ 的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=dot's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=dot's Lobby;SelectedScene\=Gameplay
-dot's Lobby=點的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Dex's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Dex 的大廳;SelectedScene\=Gameplay
-Dex's Lobby=德克斯的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Bashin's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Bashin 大廳;SelectedScene\=Gameplay
-Bashin's Lobby=巴辛的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ABDULAH's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ABDULAH 的大廳;SelectedScene\=Gameplay
-ABDULAH's Lobby=阿布杜拉的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=山本penny's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=山本penny的大廳;SelectedScene\=Gameplay
-山本penny's Lobby=山本penny的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=いいちご's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=いいちご的大廳;SelectedScene\=Gameplay
-いいちご's Lobby=いいちご的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=zwei's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=zwei 的大廳;SelectedScene\=Gameplay
-zwei's Lobby=茲威的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=TrepX's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=TrepX 的大廳;SelectedScene\=Gameplay
-TrepX's Lobby=TrepX 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=rikiiiii's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=rikiiii's Lobby;SelectedScene\=Gameplay
-rikiiiii's Lobby=rikiiiiii 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=-oimo-'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=-oimo-'s Lobby;SelectedScene\=Gameplay
--oimo-'s Lobby=-oimo-的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=MaxonGaming's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=MaxonGaming 大廳;SelectedScene\=Gameplay
-MaxonGaming's Lobby=MaxonGaming 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Jepatan_lark's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Jepatan_lark 的大廳;SelectedScene\=Gameplay
-Jepatan_lark's Lobby=Jepatan_lark 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ChenBLUEsTAR's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ChenBLUEsTAR 的大廳;SelectedScene\=Gameplay
-ChenBLUEsTAR's Lobby=ChenBLUESAR的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Shiro's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Shiro 的大廳;SelectedScene\=Gameplay
-Shiro's Lobby=四郎的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ontaro{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ontaro{{D}} 大廳;SelectedScene\=Gameplay
-ontaro{{A}}'s Lobby=ontaro{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=mewu's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=mewu 的大廳;SelectedScene\=Gameplay
-mewu's Lobby=梅烏的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Eri's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Eri 的大廳;SelectedScene\=Gameplay
-Eri's Lobby=艾莉的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Dr. Goon, Penis M.D's Lobby;SelectedScene\=Gameplay=數據：GameStarted\={{A}}；HostAddress\={{B}}；LobbyCode\={{C}}；name\=Dr. Goon，陰莖醫學博士的大廳；SelectedScene\=遊戲玩法
-Dr. Goon, Penis M.D's Lobby=Dr. Goon，陰莖醫學博士的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=chikuwanko's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=chikuwanko 的大廳;SelectedScene\=Gameplay
-chikuwanko's Lobby=竹灣科飯店的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=recruit{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=recruit{{D}} 大廳;SelectedScene\=Gameplay
-recruit{{A}}'s Lobby=招募{{A}}的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=yasuyellow's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=yasuyellow 的大廳;SelectedScene\=Gameplay
-yasuyellow's Lobby=yasuyellow 的大廳
-Status: [{{A}} {{B}}] Lobby list updated: {{C}} entries.=狀態：[{{A}} {{B}}] 大廳清單已更新：{{C}} 條目。
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Regu's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Regu 大廳;SelectedScene\=Gameplay
-Regu's Lobby=雷古酒店的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ocha{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ocha{{D}} 的大廳;SelectedScene\=Gameplay
-ocha{{A}}'s Lobby=ocha{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Inert{{D}}a、's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Inert{{D}}a、's Lobby;SelectedScene\=Gameplay
-Inert{{A}}a、's Lobby=Inert{{A}}a、的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=,jhgewasiu's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=,jhgewasiu 的大廳;SelectedScene\=Gameplay
-,jhgewasiu's Lobby=,jhgewasiu 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Rari_K{{D}}ngFS's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Rari_K{{D}}ngFS 大廳;SelectedScene\=Gameplay
-Rari_K{{A}}ngFS's Lobby=Rari_K{{A}}ngFS 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=kobarein{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=kobarein{{D}} 大廳;SelectedScene\=Gameplay
-kobarein{{A}}'s Lobby=kobarein{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=gin{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=gin{{D}} 大廳;SelectedScene\=Gameplay
-gin{{A}}'s Lobby=gin{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Ash's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Ash 的大廳;SelectedScene\=Gameplay
-Ash's Lobby=艾許的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Aki's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Aki 的大廳;SelectedScene\=Gameplay
-Aki's Lobby=阿基的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=AgentDuck{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=AgentDuck{{D}} 大廳;SelectedScene\=Gameplay
-AgentDuck{{A}}'s Lobby=AgentDuck{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=黒の章!白の章!中田翔's Lobby;SelectedScene\=Gameplay=Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=黒の章!白の章!中田翔的大廳;SelectedScene\=Gameplay
-黒の章!白の章!中田翔's Lobby=黒の章!白の章!中田翔的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Xsp's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Xsp 的大廳;SelectedScene\=Gameplay
-Xsp's Lobby=Xsp的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=MystikNomad's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=MystikNomad 的大廳;SelectedScene\=Gameplay
-MystikNomad's Lobby=MystikNomad 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=DankPanda's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=DankPanda 大廳;SelectedScene\=Gameplay
-DankPanda's Lobby=DankPanda 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Hitachi EX{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=日立 EX{{D}} 大廳;SelectedScene\=Gameplay
-Hitachi EX{{A}}'s Lobby=日立EX{{A}}的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=腹ガ下痢ラ豪雨's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=腹ガ下痢拉暴雨的大廳;SelectedScene\=Gameplay
-腹ガ下痢ラ豪雨's Lobby=腹ガ下腹瀉ラ暴雨's Lobby
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=でこびかりCH's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=でこびかりCH 大廳;SelectedScene\=Gameplay
-でこびかりCH's Lobby=でこびかりCH的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=yupporo's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=yupporo 的大廳;SelectedScene\=Gameplay
-yupporo's Lobby=yupporo 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Rubicon's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Rubicon 大廳;SelectedScene\=Gameplay
-Rubicon's Lobby=盧比肯酒店大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=niwatori's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=niwatori 大廳;SelectedScene\=Gameplay
-niwatori's Lobby=法庭取飯店的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Mr.偏微分's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=偏微分先生的大廳;SelectedScene\=Gameplay
-Mr.偏微分's Lobby=偏微分先生的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=akrxxjp's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=akrxxjp 的大廳;SelectedScene\=Gameplay
-akrxxjp's Lobby=akrxxjp 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=じょうじ's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=じょうじ的大廳;SelectedScene\=Gameplay
-じょうじ's Lobby=じょうじ的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=tuburana{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=tuburana{{D}} 大廳;SelectedScene\=Gameplay
-tuburana{{A}}'s Lobby=tuburana{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Zunaran's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Zunaran 大廳;SelectedScene\=Gameplay
-Zunaran's Lobby=祖納蘭酒店的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=takatora_{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=takatora_{{D}} 的大廳;SelectedScene\=Gameplay
-takatora_{{A}}'s Lobby=takatora_{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=PUDDING's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=PUDDING 的大廳;SelectedScene\=Gameplay
-PUDDING's Lobby=布丁的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=MooMooCows's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=MooMooCows 大廳;SelectedScene\=Gameplay
-MooMooCows's Lobby=MooMooCows 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=catuoo's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=catuoo 的大廳;SelectedScene\=Gameplay
-catuoo's Lobby=卡圖奧的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};name\=Zako ♡'s Lobby;SelectedScene\=Gameplay=數據：GameStarted\={{A}}；HostAddress\={{B}}；name\=Zako♡的大廳；SelectedScene\=Gameplay
-Zako ♡'s Lobby=Zako♡的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=SuppleRabbit's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=SuppleRabbit 的大廳;SelectedScene\=Gameplay
-SuppleRabbit's Lobby=軟兔的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=illuminox's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=illuminox 大廳;SelectedScene\=Gameplay
-illuminox's Lobby=Illuminox 的大堂
-GWYF Unified Panel=GWYF統一面板
+﻿GWYF Unified Panel=GWYF統一面板
 Tabs=選項卡
-Moderation=適度
 Steam Join=Steam 加入
+Moderation=適度
 Lobbies=大堂
 User Lookup=用戶尋找
-Status: [{{A}} {{B}}] Requested lobby list. Handle: {{C}}=狀態：[{{A}} {{B}}] 請求大廳清單。手把：{{C}}
+Status: [{{A}} {{B}}] Ready=狀態：[{{A}} {{B}}] 就緒
 Show SteamIDs: False=顯示 SteamID：False
 Whitelist mode: False=白名單模式：False
 Reload Lists=重新載入列表
 Enable Whitelist=啟用白名單
 Show IDs=顯示 ID
 Players=玩家
+LemonGG=檸檬GG
 SteamID: {{A}}=Steam ID：{{A}}
-Path: /Canvas/UI/Panel/Party/playersInParty/LobbyPlayerEntry(Clone)=路徑：/Canvas/UI/Panel/Party/playersInParty/LobbyPlayerEntry（克隆）
-Flags: conn\=False | banned\=False | allowed\=True=標誌： conn\=False |禁止\=假|允許\=真
+Path: /Player(Clone)=路徑：/玩家（克隆）
+Flags: conn\=False | banned\=False | allowed\=False=標誌： conn\=False |禁止\=假|允許\=假
 Kick=踢
 Ban=班
 Unban=解禁
+YuKi=由紀
+Flags: conn\=False | banned\=False | allowed\=True=標誌： conn\=False |禁止\=假|允許\=真
 Remove Allow=刪除允許
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=yawarakafed's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=yawarakafed 大廳;SelectedScene\=Gameplay
-yawarakafed's Lobby=yawarakafed 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=LIZARD's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=LIZARD 的大廳;SelectedScene\=Gameplay
-LIZARD's Lobby=蜥蜴的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=CMNK's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=CMNK 大廳;SelectedScene\=Gameplay
-CMNK's Lobby=CMNK 大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ENO's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ENO 大廳;SelectedScene\=Gameplay
-ENO's Lobby=伊諾的大廳
+Allow=允許
+Refresh Players=刷新玩家
+Arutan's Lobby=阿魯坦飯店大廳
+五告雖去督丟大鱸鰻's Lobby=五告雖去督丟大鱸鰻的大廳
+longlongman's Lobby=朗朗曼的大廳
 Copy Lobby=複製大廳
 Copy Host=複製主機
 Join Lobby=加入大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=chikuwaten's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=chikuwaten 大廳;SelectedScene\=Gameplay
-Scene: Gameplay=場景：遊戲
 Members: {{A}} | State: in_game | Code: {{B}}=會員：{{A}} |狀態：遊戲中 |代碼：{{B}}
+Host AccountID: {{A}}=主機帳號：{{A}}
 Host: {{A}}=主辦單位：{{A}}
 LobbyID: {{A}}=大廳ID：{{A}}
-chikuwaten's Lobby=竹瓦天酒店的大廳
-Found: {{A}}=發現：{{A}}
-Refresh Lobbies=刷新大廳
-zaluc's Lobby=札魯克的大堂
-{{A}}||False|{{B}}|{{C}}|False|no_game_info_exposed\r\n={{A}}||假|{{B}}|{{C}}|假|no_game_info_exposed\r\n
-Query User=查詢用戶
-Steam User ID=蒸汽用戶 ID
+keisuiくん's Lobby=keisuiくん的大廳
+Filter Loaded Results=過濾加載的結果
+Search Steam=搜尋蒸汽
+In Game=遊戲中
+Any=任意
+Name=名稱
+Code=程式碼
+Steam Search=蒸氣搜尋
+Joiner queue: # commands processed=加入者佇列：已處理的 # 個指令
+Found (unique): {{A}}=發現（唯一）：{{A}}
+Status: [{{A}} {{B}}] Requested lobby list (state\=lobby). Handle: {{C}}=狀態：[{{A}} {{B}}] 請求大廳清單（狀態\=大廳）。手把：{{C}}
+Refresh Lobbies (Deep)=刷新大廳（深）
+Bounce Man's Lobby=彈跳人的大堂
+MAO's Lobby=毛澤東大廳
+RagingTinker's Lobby=憤怒修補匠的大廳
+Ruby's Lobby=魯比的大堂
+touhu{{A}}_{{B}}'s Lobby=touhu{{A}}_{{B}} 的大廳
+turboOuO's Lobby=渦輪OuO的大廳
+KAWASAMA's Lobby=川正酒店的大廳
+mc_koala_koala's Lobby=mc_koala_koala 的大廳
+Status: [{{A}} {{B}}] Requested lobby list (state\=in_game). Handle: {{C}}=狀態：[{{A}} {{B}}] 請求大廳清單（state\=in_game）。手把：{{C}}
+Rex starfish's Lobby=雷克斯海星的大廳
+大咪's Lobby=大咪的大堂
+爆裂's Lobby=爆裂的大廳
+Ougao's Lobby=歐高酒店大廳
+Ryo's Lobby=麗奧的大廳
+YID's Lobby=YID的大廳
+確キルこそ我が人生's Lobby=確實キルこそ我が人生的大廳
+阿猴氣噗噗's Lobby=阿猴氣噗噗的大廳
+Host: hidden=主持人：隱藏
+Members: {{A}} | State: unknown | Code: =會員：{{A}} |狀態：未知 |代碼： 
+Scene: =場景： 
+✪David's Lobby=✪大衛大堂
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=✪David's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=✪David 的大廳;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\={{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\={{D}} 大廳;SelectedScene\=Gameplay
+angjihubu{{A}}'s Lobby=angjihubu{{A}} 的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=angjihubu{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=angjihubu{{D}} 的大廳;SelectedScene\=Gameplay
+Angkat Bola's Lobby=安卡特博拉酒店的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Angkat Bola's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Angkat Bola 的大廳;SelectedScene\=Gameplay
+Baltazar's Lobby=巴爾塔扎的大廳
+Host=主持人
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Baltazar's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Baltazar 大廳;SelectedScene\=Gameplay
+Blast's Lobby=爆炸大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Blast's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Blast 大廳;SelectedScene\=Gameplay
+calmlly's Lobby=寧靜的大堂
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=calmlly's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=calmlly 的大廳;SelectedScene\=Gameplay
+Chef's Lobby=廚師大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Chef's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=廚師大廳;SelectedScene\=Gameplay
+Chinie's Lobby=奇妮的大堂
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Chinie's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Chinie's Lobby;SelectedScene\=Gameplay
+Consome's Lobby=康瑟姆大堂
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Consome's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Consome 大廳;SelectedScene\=Gameplay
+Dankimus's Lobby=丹基姆斯的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Dankimus's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Dankimus 大廳;SelectedScene\=Gameplay
+DenouementD's Lobby=結局D的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=DenouementD's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=DenouementD 的大廳;SelectedScene\=Gameplay
+doctor black's Lobby=布萊克博士的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=doctor black's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=black 博士的大廳;SelectedScene\=Gameplay
+DudeMigz's Lobby=DudeMigz 的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=DudeMigz's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=DudeMigz 的大廳;SelectedScene\=Gameplay
+EGG's Lobby=EGG的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=EGG's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=EGG 大廳;SelectedScene\=Gameplay
+flowdir's Lobby=flowdir的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=flowdir's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=flowdir 的大廳;SelectedScene\=Gameplay
+Futam's Lobby=富田大堂
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Futam's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Futam 大廳;SelectedScene\=Gameplay
+Jaming's Lobby=賈明的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Jaming's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}}；HostAddress\={{B}}；LobbyCode\={{C}}；name\=Jaming 的大廳；SelectedScene\=Gameplay
+Jeffpololol's Lobby=傑夫波洛爾飯店的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Jeffpololol's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Jeffpololol 的大廳;SelectedScene\=Gameplay
+Status: Deep lobby refresh requested.=狀態：請求深層大廳刷新。
+Jem's Lobby=傑姆的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Jem's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Jem 的大廳;SelectedScene\=Gameplay
+John FaZe's Lobby=約翰法澤的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=John FaZe's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=John FaZe 的大廳;SelectedScene\=Gameplay
+Jp_Dqf's Lobby=Jp_Dqf 的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Jp_Dqf's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Jp_Dqf 的大廳;SelectedScene\=Gameplay
+Kamado Nezuko's Lobby=爐門你豆子的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Kamado Nezuko's Lobby;SelectedScene\=Gameplay=數據：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=灶門祢豆子的大廳;SelectedScene\=Gameplay
+ko.tsuge{{A}}'s Lobby=ko.tsuge{{A}} 的大廳
+Scene: Gameplay=場景：遊戲
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ko.tsuge{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ko.tsuge{{D}} 的大廳;SelectedScene\=Gameplay
+Lee's Lobby=李氏大堂
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Lee's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Lee's Lobby;SelectedScene\=Gameplay
+LOL's Lobby=哈哈的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=LOL's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=LOL 大廳;SelectedScene\=Gameplay
+madeinohio's Lobby=馬迪諾希奧飯店的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=madeinohio's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=madeinohio 大廳;SelectedScene\=Gameplay
+maki's Lobby=真紀的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=maki's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=maki 的大廳;SelectedScene\=Gameplay
+moririn-Aim's Lobby=莫里林-艾姆的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=moririn-Aim's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=moririn-Aim 的大廳;SelectedScene\=Gameplay
+Nafe's Lobby=納菲的大廳
+Members: {{A}} | State: lobby | Code: =會員：{{A}} |狀態： 大廳 |代碼： 
+Data: GameStarted\={{A}};HostAddress\={{B}};name\=Nafe's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}}；HostAddress\={{B}}；name\=Nafe 大廳；SelectedScene\=Gameplay
+Noel's Lobby=諾埃爾的大堂
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Noel's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=諾埃爾大廳;SelectedScene\=Gameplay
+OCT{{A}}'s Lobby=OCT{{A}} 的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=OCT{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=OCT{{D}} 的大廳;SelectedScene\=Gameplay
+Pe{{A}}Yu's Lobby=Pe{{A}}Yu 的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Pe{{D}}Yu's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Pe{{D}}Yu 大廳;SelectedScene\=Gameplay
+Porkenmon's Lobby=波肯獸大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Porkenmon's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Porkenmon 大廳;SelectedScene\=Gameplay
+Pwpd's Lobby=Pwpd 的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Pwpd's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Pwpd 的大廳;SelectedScene\=Gameplay
+Rizn's Lobby=裡茲恩飯店的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Rizn's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Rizn 大廳;SelectedScene\=Gameplay
+Sawaguchi's Lobby=澤口的大堂
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Sawaguchi's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=澤口大廳;SelectedScene\=Gameplay
+Sen's Lobby=森的大堂
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Sen's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Sen's Lobby;SelectedScene\=Gameplay
+shibachan{{A}}'s Lobby=shibachan{{A}}的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=shibachan{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=shibachan{{D}} 的大廳;SelectedScene\=Gameplay
+shima's Lobby=島的大堂
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=shima's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=shima 的大廳;SelectedScene\=Gameplay
+smegman's Lobby=斯梅格曼的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=smegman's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=smegman 大廳;SelectedScene\=Gameplay
+squiffy_student's Lobby=squiffy_學生大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=squiffy_student's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=squiffy_student 大廳;SelectedScene\=Gameplay
+Symphony{{A}}'s Lobby=Symphony{{A}} 的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Symphony{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Symphony{{D}} 大廳;SelectedScene\=Gameplay
+takeuchiibuki{{A}}'s Lobby=竹內吹{{A}}的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=takeuchiibuki{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=takeuchiibuki{{D}} 大廳;SelectedScene\=Gameplay
+tehcpengsiudai's Lobby=特克彭斯烏代的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=tehcpengsiudai's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=tehcpengsiudai 大廳;SelectedScene\=Gameplay
+tr{{A}}g{{B}}cng's Lobby=tr{{A}}g{{B}}cng 的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=tr{{D}}g{{E}}cng's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=tr{{D}}g{{E}}cng 的大廳;SelectedScene\=Gameplay
+wasyabi's Lobby=瓦斯亞比飯店的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=wasyabi's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=wasyabi 大廳;SelectedScene\=Gameplay
+yama's Lobby=雅馬的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=yama's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=yama 的大廳;SelectedScene\=Gameplay
+サメーズ's Lobby=サメーズ的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=サメーズ's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=サメーズ的大廳;SelectedScene\=Gameplay
+ドブカス's Lobby=ドブカsu的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ドブカス's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ドブカsu's Lobby;SelectedScene\=Gameplay
+ﾊﾟﾝﾆﾊﾑﾊｻﾑﾆﾀﾞｧ!!!!!!!!!!!'s Lobby=ﾊﾟﾝﾆﾊﾑﾊｻﾑﾆﾀﾞｧ!!!!!!!!!!! 的廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ﾊﾟﾝﾆﾊﾑﾊｻﾑﾆﾀﾞｧ!!!!!!!!!!!'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ﾊﾟﾝﾆﾊﾑﾊｻﾑﾆﾀﾞｧ!!!!!!!!!!!!!
+ぷるぷる震えるガール's Lobby=ぷるぷる震えるガール的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ぷるぷる震えるガール's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ぷるぷる震えるガール的大廳;SelectedScene\=Gameplay
+來根小烟's Lobby=來根小煙的大堂
+Members: {{A}} | State: lobby | Code: {{B}}=會員：{{A}} |狀態： 大廳 |代碼：{{B}}
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=來根小烟's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=來根小煙的大廳;SelectedScene\=Gameplay
+冰拿's Lobby=冰拿的大堂
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=冰拿's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=冰拿大廳;SelectedScene\=Gameplay
+{{A}}'s Lobby={{A}} 大廳
+Data: =數據： 
+kawazu{{A}}'s Lobby=kawazu{{A}}的大廳
+takiren{{A}}'s Lobby=takiren{{A}} 的大廳
+noob_{{A}}'s Lobby=noob_{{A}} 的大廳
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=阿猴氣噗噗's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=阿猴氣噗噗的大廳;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=確キルこそ我が人生's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=確實キルこそ我が人生的大廳;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=YID's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=YID 的大廳;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Ryo's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Ryo 的大廳;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Ougao's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=歐高的大廳;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=kawazu{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=kawazu{{D}} 大廳;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=爆裂's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=爆裂的大廳;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=大咪's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=大咪大廳;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Rex starfish's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=霸王海星的大廳;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=mc_koala_koala's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=mc_koala_koala 的大廳;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=KAWASAMA's Lobby;SelectedScene\=Gameplay=数据：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=KAWASAMA 大厅;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=turboOuO's Lobby;SelectedScene\=Gameplay=数据：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=turboOuO 的大厅;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=touhu{{D}}_{{E}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=touhu{{D}}_{{E}} 的大廳;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=takiren{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=takiren{{D}} 的大廳;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Ruby's Lobby;SelectedScene\=Gameplay=数据：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Ruby 大厅;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=RagingTinker's Lobby;SelectedScene\=Gameplay=数据：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=RagingTinker's Lobby;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=MAO's Lobby;SelectedScene\=Gameplay=数据：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=MAO's Lobby;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Bounce Man's Lobby;SelectedScene\=Gameplay=数据：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Bounce Man's Lobby;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Arutan's Lobby;SelectedScene\=Gameplay=数据：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Arutan 大厅;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=五告雖去督丟大鱸鰻's Lobby;SelectedScene\=Gameplay=Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=五告虽去督丢大鲈鳗的大厅;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=noob_{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=noob_{{D}} 的大廳;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=longlongman's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=longlongman 的大廳;SelectedScene\=Gameplay
+Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=keisuiくん's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=keisuiくん的大廳;SelectedScene\=Gameplay
+Status: Steam search requested (multi-pass when state is Any).=狀態：已請求 Steam 搜尋（狀態為「任意」時多次通過）。
 Current Lobby=目前大廳
 Leave Lobby=離開大廳
+Join Code=加入程式碼
 Join User=加入用戶
 Target ID=目標ID
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=zaluc's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=zaluc 的大廳;SelectedScene\=Gameplay
-野良介護初任者研修's Lobby=野良介護初任者所研修的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=野良介護初任者研修's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=野良介護初任者研修的大廳;SelectedScene\=Gameplay
-Status: [{{A}} {{B}}] Ready=狀態：[{{A}} {{B}}] 就緒
-Refresh Players=刷新玩家
-LobbyPlayerEntry(Clone)=大廳玩家入口（克隆）
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Avalon's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Avalon 大廳;SelectedScene\=Gameplay
-Avalon's Lobby=阿瓦隆的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\={{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\={{D}} 大廳;SelectedScene\=Gameplay
-hakiz's Lobby=哈基茲的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=hakiz's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=hakiz 大廳;SelectedScene\=Gameplay
-Zaru's Lobby=札魯飯店的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Zaru's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Zaru 大廳;SelectedScene\=Gameplay
-まに's Lobby=まに的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=まに's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=まに的大廳;SelectedScene\=Gameplay
-✪Spanish Flu's Lobby=✪西班牙流感大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=✪Spanish Flu's Lobby;SelectedScene\=Gameplay=數據：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=✪西班牙流感大廳;SelectedScene\=Gameplay
-FantasyEarthZero's Lobby=FantasyEarthZero的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=FantasyEarthZero's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=FantasyEarthZero 的大廳;SelectedScene\=Gameplay
-Joe's Lobby=喬的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Joe's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Joe's Lobby;SelectedScene\=Gameplay
-Kang The Conqueror's Lobby=征服者康的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Kang The Conqueror's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=康征服者大廳;SelectedScene\=Gameplay
-Lim's Lobby=林的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Lim's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Lim 的大廳;SelectedScene\=Gameplay
-No.Seven's Lobby=七號大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=No.Seven's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=No.Seven 的大廳;SelectedScene\=Gameplay
-SiuFatBB's Lobby=SiuFatBB的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=SiuFatBB's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=SiuFatBB 的大廳;SelectedScene\=Gameplay
-smartest filipino's Lobby=最聰明的菲律賓人的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=smartest filipino's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=smartest filipino's Lobby;SelectedScene\=Gameplay
-SPEER{{A}}W's Lobby=SPEER{{A}}W 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=SPEER{{D}}W's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=SPEER{{D}}W 大廳;SelectedScene\=Gameplay
-'s Lobby= 的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\='s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\='s Lobby;SelectedScene\=Gameplay
-Charlizard's Lobby=查理札德的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=KyotoNS's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=KyotoNS 大廳;SelectedScene\=Gameplay
-KyotoNS's Lobby=京都NS的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=cantingspy{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=cantingspy{{D}} 的大廳;SelectedScene\=Gameplay
-cantingspy{{A}}'s Lobby=cantingspy{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=almniumm's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=almniumm 大廳;SelectedScene\=Gameplay
-almniumm's Lobby=阿爾姆尼姆酒店大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Akiraty's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Akiraty 大廳;SelectedScene\=Gameplay
-Akiraty's Lobby=阿基拉蒂酒店的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Herowood's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Herowood 大廳;SelectedScene\=Gameplay
-Herowood's Lobby=海洛伍德的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=GR{{D}}SP's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=GR{{D}}SP 大廳;SelectedScene\=Gameplay
-GR{{A}}SP's Lobby=GR{{A}}SP 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Tanuki's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}}；HostAddress\={{B}}；LobbyCode\={{C}}；name\=狸貓大廳；SelectedScene\=Gameplay
-Tanuki's Lobby=狸貓的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Orphic's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Orphic 大廳;SelectedScene\=Gameplay
-Orphic's Lobby=奧菲克飯店的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Gpost's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Gpost 大廳;SelectedScene\=Gameplay
-Gpost's Lobby=Gpost 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=dosukebe's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=dosukebe 的大廳;SelectedScene\=Gameplay
-dosukebe's Lobby=多蘇克貝的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Arzeria's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Arzeria 大廳;SelectedScene\=Gameplay
-Arzeria's Lobby=阿澤利亞酒店的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=あにーま's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=あにーま的大廳;SelectedScene\=Gameplay
-あにーま's Lobby=あにーま的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Pub{{D}}ic's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Pub{{D}}ic 的大廳;SelectedScene\=Gameplay
-Pub{{A}}ic's Lobby=Pub{{A}}ic 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=piratekingloopy's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=piratekingloopy 的大廳;SelectedScene\=Gameplay
-piratekingloopy's Lobby=Piratekingloopy 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Jailed Sensei's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Jailed Sensei 的大廳;SelectedScene\=Gameplay
-Jailed Sensei's Lobby=被監禁的老師的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Charlizard's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Charlizard's Lobby;SelectedScene\=Gameplay
-Codymcfly{{A}}b's Lobby=Codymcfly{{A}}b 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Codymcfly{{D}}b's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Codymcfly{{D}}b 的大廳;SelectedScene\=Gameplay
-disconnected's Lobby=斷開連接的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=disconnected's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=斷開連接的大廳;SelectedScene\=Gameplay
-Felis's Lobby=菲利斯飯店的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Felis's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Felis 的大廳;SelectedScene\=Gameplay
-fonsi's Lobby=豐西的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=fonsi's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=fonsi 大廳;SelectedScene\=Gameplay
-Ikki's Lobby=一輝的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Ikki's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=一輝大廳;SelectedScene\=Gameplay
-Jelly's Lobby=果凍大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Jelly's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Jelly's Lobby;SelectedScene\=Gameplay
-Markchew's Lobby=馬克丘酒店的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Markchew's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Markchew 大廳;SelectedScene\=Gameplay
-matumatuyumyum's Lobby=瑪圖尤姆尤姆酒店的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=matumatuyumyum's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=matuyumyum 大廳;SelectedScene\=Gameplay
-obangrusrusman{{A}}'s Lobby=obangrusrusman{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=obangrusrusman{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=obangrusrusman{{D}} 的大廳;SelectedScene\=Gameplay
-Orphanstanley's Lobby=孤兒史丹利的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Orphanstanley's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Orphanstanley's Lobby;SelectedScene\=Gameplay
-ruruha's Lobby=魯魯哈的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ruruha's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ruruha 大廳;SelectedScene\=Gameplay
-senka's Lobby=仙卡的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=senka's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=senka 大廳;SelectedScene\=Gameplay
-tomato{{A}}daze's Lobby=tomato{{A}}daze 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=tomato{{D}}daze's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=tomato{{D}}daze 的大廳;SelectedScene\=Gameplay
-Trev's Lobby=特雷夫的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Trev's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Trev 的大廳;SelectedScene\=Gameplay
-Water's Lobby=水之大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Water's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Water's Lobby;SelectedScene\=Gameplay
-LickTheCow's Lobby=LickTheCow的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=LickTheCow's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=LickTheCow 的大廳;SelectedScene\=Gameplay
-mui's Lobby=梅的大堂
-Members: {{A}} | State: lobby | Code: =會員：{{A}} |狀態： 大廳 |代碼： 
-Data: GameStarted\={{A}};HostAddress\={{B}};name\=mui's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};name\=mui 大廳;SelectedScene\=Gameplay
-pu c's Lobby=pu c的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=pu c's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=pu c's Lobby;SelectedScene\=Gameplay
-Search=搜尋
-Host AccountID: {{A}}=主機帳號：{{A}}
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=amos's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=amos 大廳;SelectedScene\=Gameplay
-amos's Lobby=阿莫斯飯店大廳
-takiren{{A}}'s Lobby=takiren{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=takiren{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=takiren{{D}} 的大廳;SelectedScene\=Gameplay
-furiyu{{A}}'s Lobby=furiyu{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=furiyu{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=furiyu{{D}} 大廳;SelectedScene\=Gameplay
-Kaichi*'s Lobby=凱吉*的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Kaichi*'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Kaichi*'s Lobby;SelectedScene\=Gameplay
-Loser's Lobby=失敗者大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Loser's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=失敗者大廳;SelectedScene\=Gameplay
-オルカ's Lobby=オルカ的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=オルカ's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=オルカ的大廳;SelectedScene\=Gameplay
-Arc's Lobby=弧形大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Arc's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Arc 大廳;SelectedScene\=Gameplay
-monica's Lobby=莫妮卡的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=monica's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}}；HostAddress\={{B}}；LobbyCode\={{C}}；name\=莫妮卡的大廳；SelectedScene\=Gameplay
-SULLYOON's Lobby=水潤的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=SULLYOON's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=SULLYOON 大廳;SelectedScene\=Gameplay
-frank's Lobby=弗蘭克的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=frank's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=frank 的大廳;SelectedScene\=Gameplay
-painapo's Lobby=帕納波飯店的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=painapo's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=painapo 大廳;SelectedScene\=Gameplay
-WIFI's Lobby=大堂無線網路
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=WIFI's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=WIFI 大廳;SelectedScene\=Gameplay
-カムニィ's Lobby=カムィ的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=カムニィ's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=kamunii's Lobby;SelectedScene\=Gameplay
-{{A}} Skins's Lobby={{A}} 皮膚大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\={{D}} Skins's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\={{D}} 皮膚大廳;SelectedScene\=Gameplay
-Albert Epstein's Lobby=艾伯特愛潑斯坦的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Albert Epstein's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}}；HostAddress\={{B}}；LobbyCode\={{C}}；name\=Albert Epstein 的大廳；SelectedScene\=Gameplay
-huaiwen's Lobby=懷文的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=huaiwen's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=懷文大廳;SelectedScene\=Gameplay
-Meeng's Lobby=梅恩的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Meeng's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Meeng 的大廳;SelectedScene\=Gameplay
-sammaks{{A}}'s Lobby=sammaks{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=sammaks{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=sammaks{{D}} 的大廳;SelectedScene\=Gameplay
-Sether's Lobby=塞瑟的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Sether's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Sether 的大廳;SelectedScene\=Gameplay
-TanTan's Lobby=探探的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=TanTan's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=TanTan 大廳;SelectedScene\=Gameplay
-toam's Lobby=托姆的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=toam's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=toam 的大廳;SelectedScene\=Gameplay
-TooGoodForYou's Lobby=TooGoodForYou 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=TooGoodForYou's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=TooGoodForYou 的大廳;SelectedScene\=Gameplay
-unicornkey's Lobby=獨角獸鑰匙的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=unicornkey's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=unicornkey 的大廳;SelectedScene\=Gameplay
-Status: Query user -> {{A}}=狀態：查詢使用者->{{A}}
-Status: [{{A}} {{B}}] Could not get game info for Steam user {{C}}.=狀態：[{{A}} {{B}}] 無法取得 Steam 用戶 {{C}} 的遊戲資訊。
-Status: Join lobby -> {{A}}=狀態：加入大廳->{{A}}
-Status: [{{A}} {{B}}] JoinLobby called with Steam lobby ID {{C}}. API call handle: {{D}}=狀態：[{{A}} {{B}}] 使用 Steam 大廳 ID {{C}} 呼叫 JoinLobby。 API呼叫句柄：{{D}}
-Status: [{{A}} {{B}}] Could not get game info for Steam user {{C}}. They may be offline, not your friend, or not exposing joinable session data.=狀態：[{{A}} {{B}}] 無法取得 Steam 用戶 {{C}} 的遊戲資訊。他們可能處於離線狀態，不是您的朋友，或沒有公開可加入的會話資料。
 Status: Join user -> {{A}}=狀態：加入使用者->{{A}}
-Status: Current lobby requested.=狀態：目前大廳已請求。
-Status: [{{A}} {{B}}] Current lobby SteamID: {{C}}=狀態：[{{A}} {{B}}] 當前大廳 SteamID：{{C}}
-{{A}}|[unknown]|False|{{B}}|{{C}}|False|no_game_info_exposed\r\n={{A}}|[未知]|False|{{B}}|{{C}}|False|no_game_info_expose\r\n
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=oreo's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=oreo 大廳;SelectedScene\=Gameplay
-oreo's Lobby=奧利奧的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=kuni's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=kuni 的大廳;SelectedScene\=Gameplay
-kuni's Lobby=庫尼的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Explosion's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=爆炸大廳;SelectedScene\=Gameplay
-Explosion's Lobby=爆炸大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=:>'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=:> 的大廳;SelectedScene\=Gameplay
-:>'s Lobby=:> 大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=wild_cargo's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=wild_cargo 的大廳;SelectedScene\=Gameplay
-wild_cargo's Lobby=wild_cargo 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=黑暗骑士毁灭者收割者's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=黑闇騎士毀滅者收割者的大廳;SelectedScene\=Gameplay
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ろき's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ろき的大廳;SelectedScene\=Gameplay
-ろき's Lobby=ろき的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=けい (xav)'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=けい (xav) 的大廳;SelectedScene\=Gameplay
-けい (xav)'s Lobby=けい (xav) 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=rock{{D}}p's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=rock{{D}}p 的大廳;SelectedScene\=Gameplay
-rock{{A}}p's Lobby=rock{{A}}p 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=michael{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=michael{{D}} 的大廳;SelectedScene\=Gameplay
-michael{{A}}'s Lobby=Michael{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=budousoda's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=budousoda 的大廳;SelectedScene\=Gameplay
-budousoda's Lobby=布杜蘇達飯店的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Biyasto's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Biyasto 大廳;SelectedScene\=Gameplay
-Biyasto's Lobby=比亞斯托飯店大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=天選之人's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=天選之人的大廳;SelectedScene\=Gameplay
-天選之人's Lobby=天選之人的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ruts's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ruts 的大廳;SelectedScene\=Gameplay
-ruts's Lobby=車轍酒店的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Jiu's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Jiu's Lobby;SelectedScene\=Gameplay
-Jiu's Lobby=玖的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=PerunPerun's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=PerunPerun 的大廳;SelectedScene\=Gameplay
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Zhong Xina's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=鐘西娜的大廳;SelectedScene\=Gameplay
-Zhong Xina's Lobby=鐘希娜的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};name\=gohu's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};name\=gohu's Lobby;SelectedScene\=Gameplay
-gohu's Lobby=戈胡的大廳
-PerunPerun's Lobby=PerunPerun的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=oderonraven{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=oderonraven{{D}} 的大廳;SelectedScene\=Gameplay
-oderonraven{{A}}'s Lobby=oderonraven{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Gurdy's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}}；HostAddress\={{B}}；LobbyCode\={{C}}；name\=Gurdy 的大廳；SelectedScene\=Gameplay
-Gurdy's Lobby=古迪的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Say{{D}}nara's Lobby;SelectedScene\=Gameplay=數據：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Say{{D}}nara 的大廳;SelectedScene\=Gameplay
-Say{{A}}nara's Lobby=Say{{A}}nara 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=PonJuice's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=PonJuice 的大廳;SelectedScene\=Gameplay
-PonJuice's Lobby=龐果汁大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=iiTzLiang's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=iiTzLiang 的大廳;SelectedScene\=Gameplay
-iiTzLiang's Lobby=iiTzLiang 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ウパシチリ's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ウパシチri的大廳;SelectedScene\=Gameplay
-ウパシチリ's Lobby=ウパシチ裡的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Kewpie Mayo's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=丘比梅奧大廳;SelectedScene\=Gameplay
-Kewpie Mayo's Lobby=丘比梅奧的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=EGOIST Terry* Twitch's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}}；HostAddress\={{B}}；LobbyCode\={{C}}；name\=EGOIST Terry* Twitch 的大廳；SelectedScene\=Gameplay
-EGOIST Terry* Twitch's Lobby=自我主義者 Terry* Twitch 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Rotten Zucchini.'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Rotten Zucchini.'s Lobby;SelectedScene\=Gameplay
-Rotten Zucchini.'s Lobby=爛西葫蘆的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Riz..'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Riz..'s Lobby;SelectedScene\=Gameplay
-Riz..'s Lobby=裡茲..的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=kuziomi's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=kuziomi 的大廳;SelectedScene\=Gameplay
-kuziomi's Lobby=庫茲奧米的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Karma's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Karma 大廳;SelectedScene\=Gameplay
-Karma's Lobby=業力大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Buh's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Buh 大廳;SelectedScene\=Gameplay
-Buh's Lobby=布赫的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};name\=Zane Dase's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}}；HostAddress\={{B}}；name\=Zane Dase 的大廳；SelectedScene\=Gameplay
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\={{D}}th Primpus's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\={{D}}th Primpus 的大廳;SelectedScene\=Gameplay
-{{A}}th Primpus's Lobby={{A}}th Primpus 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Chocobon's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Chocobon 大廳;SelectedScene\=Gameplay
-Chocobon's Lobby=Chocobon飯店的大廳
-Scene: =場景： 
-Members: {{A}} | State: unknown | Code: =會員：{{A}} |狀態：未知 |代碼： 
-Host: hidden=主持人：隱藏
-Data: =數據： 
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=林m{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=林m{{D}}的大廳;SelectedScene\=Gameplay
-林m{{A}}'s Lobby=林m{{A}}的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=SPEC{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=SPEC{{D}} 大廳;SelectedScene\=Gameplay
-SPEC{{A}}'s Lobby=SPEC{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=macks's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=macks 大廳;SelectedScene\=Gameplay
-macks's Lobby=麥克斯的大廳
-Join Code=加入程式碼
+Status: [{{A}} {{B}}] Steam user {{C}} does not currently expose a joinable lobby.=狀態：[{{A}} {{B}}] Steam 用戶 {{C}} 目前未公開可加入的大廳。
 Status: Join code -> {{A}}=狀態：加入程式碼 -> {{A}}
 Status: [{{A}} {{B}}] No lobby found for code {{C}}. Refresh lobbies and try again.=狀態：[{{A}} {{B}}] 未找到代碼 {{C}} 的大廳。刷新大廳並重試。
-$1.9T=$1.9T
-$1K=1000 美元
-$1.2K=1200 美元
-$1.42K=$1.42K
-$1.8K=1800 美元
-maga's Lobby=馬加的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=SoyBean Fried Cheecan's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=黃豆炒起司大廳;SelectedScene\=Gameplay
-SoyBean Fried Cheecan's Lobby=黃豆炒Cheecan的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=literaldentist{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=literaldentist{{D}} 的大廳;SelectedScene\=Gameplay
-literaldentist{{A}}'s Lobby=文字牙醫{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=maga's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=maga 的大廳;SelectedScene\=Gameplay
-Mew's Lobby=喵的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Mew's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Mew 的大廳;SelectedScene\=Gameplay
-UTA's Lobby=UTA 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=UTA's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=UTA 大廳;SelectedScene\=Gameplay
-春雨's Lobby=春雨的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=春雨's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=春雨的大廳;SelectedScene\=Gameplay
-angusbeef's Lobby=安格斯牛肉的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=angusbeef's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=angusbeef 的大廳;SelectedScene\=Gameplay
-D{{A}}CORUM's Lobby=D{{A}}CORUM 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=D{{D}}CORUM's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=D{{D}}CORUM 大廳;SelectedScene\=Gameplay
-hap{{A}}py's Lobby=hap{{A}}py 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=hap{{D}}py's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=hap{{D}}py 的大廳;SelectedScene\=Gameplay
-✪ Nyjah's Lobby=✪ Nyjah 大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=✪ Nyjah's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=✪ Nyjah 大廳;SelectedScene\=Gameplay
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Rin's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=凜的大廳;SelectedScene\=Gameplay
-Rin's Lobby=凜的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Momiji's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Momiji 的大廳;SelectedScene\=Gameplay
-Momiji's Lobby=莫米吉的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Gelx's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Gelx 大廳;SelectedScene\=Gameplay
-Gelx's Lobby=蓋爾克斯的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=dahon's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=dahon's Lobby;SelectedScene\=Gameplay
-dahon's Lobby=大行的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=akina's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=akina 的大廳;SelectedScene\=Gameplay
-akina's Lobby=阿基娜的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\={{D}} years for you.'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\={{D}} 為你服務多年。的大廳;SelectedScene\=Gameplay
-{{A}} years for you.'s Lobby={{A}} 為您服務的大廳
-{{A}}e's Lobby={{A}}e 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\={{D}}e's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\={{D}}e 大廳;SelectedScene\=Gameplay
-BLACKsw{{A}}'s Lobby=BLACKsw{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=BLACKsw{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=BLACKsw{{D}} 的大廳;SelectedScene\=Gameplay
-Chiyokoz's Lobby=奇約科茲飯店的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Chiyokoz's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Chiyokoz 大廳;SelectedScene\=Gameplay
-Cowmen's Lobby=牛人大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Cowmen's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Cowmen's Lobby;SelectedScene\=Gameplay
-h{{A}}tdog{{B}}'s Lobby=h{{A}}tdog{{B}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=h{{D}}tdog{{E}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=h{{D}}tdog{{E}} 的大廳;SelectedScene\=Gameplay
-LilyMe's Lobby=LilyMe的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=LilyMe's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=LilyMe 的大廳;SelectedScene\=Gameplay
-lost one's Lobby=失去了一個大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=lost one's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=遺失的大廳;SelectedScene\=Gameplay
-RafuNoob's Lobby=RafuNoob 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=RafuNoob's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=RafuNoob 的大廳;SelectedScene\=Gameplay
-senseiaguero's Lobby=森西亞格羅酒店的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=senseiaguero's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=senseiaguero 的大廳;SelectedScene\=Gameplay
-<noparse></noparse>"Luck never gives, it only lends"\\n\\n-Swedish Proverb=<noparse></noparse>「運氣永遠不會給予，它只會借出」\\n\\n-瑞典諺語
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=東堂's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=東堂大廳;SelectedScene\=Gameplay
-東堂's Lobby=東堂的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};name\=Jedokun's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};name\=Jedokun 大廳;SelectedScene\=Gameplay
-Jedokun's Lobby=傑多坤的大廳
-toriniku's Lobby=鳥肉的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=toriniku's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=toriniku's Lobby;SelectedScene\=Gameplay
-vetnir's Lobby=維特尼爾的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=vetnir's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=vetnir 大廳;SelectedScene\=Gameplay
-クウハク's Lobby=庫哈庫的大廳
-/ $1.8K=/ 1800 美元
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=クウハク's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=クウハク的大廳;SelectedScene\=Gameplay
-ぱりこ's Lobby=ぱりこ的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ぱりこ's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=ぱりこ的大廳;SelectedScene\=Gameplay
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Ddaaii's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Ddaaii 的大廳;SelectedScene\=Gameplay
-Ddaaii's Lobby=Ddaaii 的大廳
-Steam Search=蒸氣搜尋
-Code=程式碼
-Name=名稱
-Host=主持人
-Any=任意
-In Game=遊戲中
-Search Steam=搜尋蒸汽
-Filter Loaded Results=過濾加載的結果
-Status: Steam search requested.=狀態：已請求 Steam 搜尋。
-Status: [{{A}} {{B}}] Requested filtered lobby list. Handle: {{C}}=狀態：[{{A}} {{B}}] 請求過濾大廳清單。手把：{{C}}
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=スミスビンタしないで's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=sumisubintタしないで的大廳;SelectedScene\=Gameplay
-スミスビンタしないで's Lobby=sumobintaしないで的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=venti fanboy {{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=venti fanboy {{D}} 的大廳;SelectedScene\=Gameplay
-venti fanboy {{A}}'s Lobby=venti fanboy {{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=hansen_hs_so's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=hansen_hs_so 的大廳;SelectedScene\=Gameplay
-hansen_hs_so's Lobby=hansen_hs_so 的大廳
-Archie Love u's Lobby=阿奇愛你的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Archie Love u's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Archie Love u's Lobby;SelectedScene\=Gameplay
-Dingus's Lobby=丁格斯的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Dingus's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Dingus 大廳;SelectedScene\=Gameplay
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=しょしんしゃさん's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=しょしんしゃさん的大廳;SelectedScene\=Gameplay
-しょしんしゃさん's Lobby=しょしんしゃさん的大廳
-hukutsu-ch{{A}}n's Lobby=hukutsu-ch{{A}}n 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=hukutsu-ch{{D}}n's Lobby;SelectedScene\=Gameplay=數據：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=hukutsu-ch{{D}}n 的大廳;SelectedScene\=Gameplay
-kang's Lobby=康的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=kang's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=kang's Lobby;SelectedScene\=Gameplay
-MamonCreated's Lobby=MamonCreated 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=MamonCreated's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=MamonCreated 的大廳;SelectedScene\=Gameplay
-octane_F{{A}}'s Lobby=辛烷_F{{A}}的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=octane_F{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=octane_F{{D}} 的大廳;SelectedScene\=Gameplay
-poyoyonn{{A}}'s Lobby=poyoyonn{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=poyoyonn{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=poyoyonn{{D}} 的大廳;SelectedScene\=Gameplay
-Say Meooow's Lobby=說喵喵的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Say Meooow's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Say Meooow 的大廳;SelectedScene\=Gameplay
-Sei's Lobby=塞伊的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Sei's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Sei 的大廳;SelectedScene\=Gameplay
-shiba's Lobby=芝的大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=shiba's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=shiba's Lobby;SelectedScene\=Gameplay
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=yokoshima{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=yokoshima{{D}} 大廳;SelectedScene\=Gameplay
-yokoshima{{A}}'s Lobby=yokoshima{{A}}的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Man of paper's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=紙片人的大廳;SelectedScene\=Gameplay
-Man of paper's Lobby=紙人的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=かめ APEXもう無理…'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=かめ APEXもう無理…的大廳;SelectedScene\=Gameplay
-かめ APEXもう無理…'s Lobby=かめ APEXもう無理…的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=yamoriko's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=yamoriko 的大廳;SelectedScene\=Gameplay
-yamoriko's Lobby=亞森子的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=pomme's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=pomme 的大廳;SelectedScene\=Gameplay
-pomme's Lobby=波美的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=nmkn{{D}}'s Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=nmkn{{D}} 的大廳;SelectedScene\=Gameplay
-nmkn{{A}}'s Lobby=nmkn{{A}} 的大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=imoimokenpi's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=imoimokenpi 的大廳;SelectedScene\=Gameplay
-imoimokenpi's Lobby=imoimokenpi 的大廳
-we lost's Lobby=我們失去了大堂
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=we lost's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=我們遺失的大廳;SelectedScene\=Gameplay
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=吃 MEOWKAI's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=吃MEOWKAI的大廳;SelectedScene\=Gameplay
-吃 MEOWKAI's Lobby=吃喵凱的大堂
-Decroram's Lobby=德克羅拉姆酒店大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Decroram's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Decroram 大廳;SelectedScene\=Gameplay
-Resignation Letter's Lobby=辭職信大廳
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=Resignation Letter's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=辭職信大廳;SelectedScene\=Gameplay
-Data: GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=TeraZix's Lobby;SelectedScene\=Gameplay=資料：GameStarted\={{A}};HostAddress\={{B}};LobbyCode\={{C}};name\=TeraZix 大廳;SelectedScene\=Gameplay
-Refresh Lobbies (Deep)=刷新大廳（深）
-Found (unique): {{A}}=發現（唯一）：{{A}}
-Status: Deep lobby refresh requested.=狀態：請求深層大廳刷新。
-Status: [{{A}} {{B}}] Requested lobby list (state\=in_game). Handle: {{C}}=狀態：[{{A}} {{B}}] 請求大廳清單（state\=in_game）。手把：{{C}}
-Status: [{{A}} {{B}}] Requested lobby list (state\=lobby). Handle: {{C}}=狀態：[{{A}} {{B}}] 請求大廳清單（狀態\=大廳）。手把：{{C}}
-Status: Steam search requested (multi-pass when state is Any).=狀態：已請求 Steam 搜尋（狀態為「任意」時多次通過）。
-Status: Kick -> LobbyPlayerEntry(Clone)=狀態：踢 -> LobbyPlayerEntry（克隆）
-Status: Reloaded moderation lists.=狀態：重新載入審核清單。
-$2.84K=$284K
-Annin_miru=安寧
-label=標籤
-Report a Bug=報告錯誤
-Unstuck=解開
-settings=設定
-quit=退出
-LemonGG=檸檬GG
-+$1.79K=+$179K
-/ $4.8K=/ 4800 美元
-Status: [{{A}} {{B}}] Steam user {{C}} does not currently expose a joinable lobby.=狀態：[{{A}} {{B}}] Steam 用戶 {{C}} 目前未公開可加入的大廳。
+Status: Join lobby -> {{A}}=狀態：加入大廳->{{A}}
+Status: [{{A}} {{B}}] JoinLobby called with Steam lobby ID {{C}}. API call handle: {{D}}=狀態：[{{A}} {{B}}] 使用 Steam 大廳 ID {{C}} 呼叫 JoinLobby。 API呼叫句柄：{{D}}
 {{A}}|LemonGG|True|{{B}}|{{C}}|False|in_game_but_no_joinable_lobby\r\n={{A}}|LemonGG|真|{{B}}|{{C}}|假|in_game_but_no_joinable_lobby\r\n
+Query User=查詢用戶
+Steam User ID=蒸汽用戶 ID
+Status: Query user -> {{A}}=狀態：查詢使用者->{{A}}
+{{A}}|史提夫|True|{{B}}|{{C}}|False|in_game_but_no_joinable_lobby\r\n={{A}}|史提夫|正確|{{B}}|{{C}}|錯誤|in_game_but_no_joinable_lobby\r\n
 Status: [{{A}} {{B}}] User {{C}} is in game but no joinable lobby is exposed.=狀態：[{{A}} {{B}}] 用戶 {{C}} 正在遊戲中，但沒有暴露可加入的大廳。
-+$4.32K=+$432K
-$5.38K=$538K
-/ $9.9K=/ 9900 美元
-Speakers (Realtek(R) Audio) [loopback]=揚聲器（Realtek(R) 音訊）[環回]
-Voicemeeter Input (VB-Audio Voicemeeter VAIO) [loopback]=Voicemeeter 輸入 (VB-Audio Voicemeeter VAIO) [環回]
-Realtek Digital Output (Realtek(R) Audio) [loopback]=Realtek 數位輸出（Realtek(R) 音訊）[環回]
-K3A8F HDMI (2- NVIDIA High Definition Audio) [loopback]=K3A8F HDMI（2- NVIDIA 高清晰度音訊）[環回]
-Voicemeeter In 1 (VB-Audio Voicemeeter VAIO) [loopback]=Voicemeeter In 1 (VB-Audio Voicemeeter VAIO) [環回]
-Voicemeeter In 5 (VB-Audio Voicemeeter VAIO) [loopback]=Voicemeeter In 5 (VB-Audio Voicemeeter VAIO) [環回]
-Voicemeeter In 2 (VB-Audio Voicemeeter VAIO) [loopback]=Voicemeeter In 2 (VB-Audio Voicemeeter VAIO) [環回]
-Voicemeeter VAIO3 Input (VB-Audio Voicemeeter VAIO) [loopback]=Voicemeeter VAIO3 輸入 (VB-Audio Voicemeeter VAIO) [環回]
-Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO)=Voicemeeter Out B1 (VB-Audio Voicemeeter VAIO)
-Speakers (Steam Streaming Microphone) [loopback]=揚聲器（Steam 串流麥克風）[環回]
-Voicemeeter In 4 (VB-Audio Voicemeeter VAIO) [loopback]=Voicemeeter In 4 (VB-Audio Voicemeeter VAIO) [環回]
-Speakers (NVIDIA Broadcast) [loopback]=揚聲器 (NVIDIA Broadcast) [環回]
-Voicemeeter In 3 (VB-Audio Voicemeeter VAIO) [loopback]=Voicemeeter In 3 (VB-Audio Voicemeeter VAIO) [環回]
-Voicemeeter AUX Input (VB-Audio Voicemeeter VAIO) [loopback]=Voicemeeter AUX 輸入 (VB-Audio Voicemeeter VAIO) [環回]
-Speakers (VIVE Pro Mutimedia Audio) [loopback]=揚聲器（VIVE Pro 多媒體音訊）[環回]
-KA241Y (NVIDIA High Definition Audio) [loopback]=KA241Y（NVIDIA 高清晰度音訊）[環回]
-Speakers (Steam Streaming Speakers) [loopback]=揚聲器（Steam 流式揚聲器）[環回]
-Microphone (NVIDIA Broadcast)=麥克風（NVIDIA 廣播）
-Microphone (Logi C270 HD WebCam)=麥克風（Logi C270 高畫質網路攝影機）
-Voicemeeter Out A3 (VB-Audio Voicemeeter VAIO)=Voicemeeter Out A3（VB-Audio Voicemeeter VAIO）
-Microphone (Steam Streaming Microphone)=麥克風（蒸氣串流麥克風）
-Voicemeeter Out A5 (VB-Audio Voicemeeter VAIO)=Voicemeeter Out A5（VB-Audio Voicemeeter VAIO）
-Voicemeeter Out B3 (VB-Audio Voicemeeter VAIO)=Voicemeeter Out B3（VB-音訊 Voicemeeter VAIO）
-Microphone (DroidCam Audio)=麥克風（DroidCam 音訊）
-Voicemeeter Out B2 (VB-Audio Voicemeeter VAIO)=Voicemeeter Out B2（VB-音訊 Voicemeeter VAIO）
-Microphone (VIVE Pro Mutimedia Audio)=麥克風（VIVE Pro 多媒體音訊）
-Microphone (Razer Seiren X)=麥克風（Razer Seiren X）
-Voicemeeter Out A2 (VB-Audio Voicemeeter VAIO)=Voicemeeter Out A2（VB-Audio Voicemeeter VAIO）
-AI Noise-Canceling Microphone (ASUS Utility)=AI降噪麥克風（ASUS Utility）
-Virtual Microphone (ASUS Utility)=虛擬麥克風（華碩實用程式）
-Voicemeeter Out A1 (VB-Audio Voicemeeter VAIO)=Voicemeeter Out A1（VB-Audio Voicemeeter VAIO）
-Microphone (Realtek(R) Audio)=麥克風（Realtek(R) 音訊）
-$4.76K=$476千美元
--$1.05K=-$105K
--$1.67K=-$167K
-$4.13K=$413K
--$2.3K=-2300 美元
-+$1.82K=+$182K
--$2.5K=-$2500
-$2.25K=$225K
-+$1.49K=+$1.49K
-$10.39K=10,390 美元
-+$8.14K=+$8.14K
-+$9.96K=+$9.96K
--$1.43K=-$143K
-$7.27K=$727K
-+$7.46K=+$7.46K
--$2.06K=-$206K
--$2.68K=-$268K
-+$2.46K=+$2.46K
--$3.3K=-3300 美元
--$3.31K=-$331K
-+$2.45K=+$2.45K
--$3.43K=-$343K
-+$2.41K=+$2.41K
--$3.36K=-$3.36K
-+$2.24K=+$224K
--$3.32K=-$332K
-+$2.5K=+2500 美元
-+$2.7K=+2700 美元
--$3.41K=-$3,41K
--$3.45K=-$3.45K
-+$2.68K=+$268K
--$3.46K=-$3.46K
--$3.51K=-$351K
--$3.61K=-$361K
--$3.48K=-$3.48K
--$3.53K=-$353K
--$3.58K=-$358K
--$3.63K=-$363K
-+$2.67K=+$267K
-+$2.66K=+$266K
-+$2.69K=+$269K
-+$2.71K=+$271K
-$9.9K=9900 美元
--$5.38K=-$538K
--$4.16K=-$416K
--$3.21K=-$321K
-blazitt=布拉齊特
-$2.66K=$266K
-/ $1.2K=/ 1200 美元
-$1.06K=$1.06K
-$1.39K=$139K
-$1.51K=$151K
-<noparse></noparse>"I gambled many\/\/chips on the roulette table\/\/now autumn has come"\\n\\n-Traditional Haiku=<noparse></noparse>「我在輪盤賭桌上賭了很多籌碼\/\/現在秋天來了」\\n\\n-傳統俳句
-/ $1.9K=/ 1900 美元
-Spend it for a single free <color\=green>all-in</color>=免費消費一次 <color\=green>全押</color>
-wheel of fortune=命運之輪
-$1.32K=$132K
-$1.79K=$179K
-$1.65K=$165K
-$1.46K=$1.46K
-$1.27K=$127K
-$1.13K=$113K
-$1.6K=1600 美元
-$1.56K=$156K
-$1.37K=$137K
-$2.41K=$241K
-$1.9K=1900 美元
-/ $3.4K=/ 3400 美元
-$2.33K=$233K
-$2.31K=$231K
-$2.15K=215 萬美元
-$2.12K=$212K 美元
-$2.05K=$205K
-+$1.27K=+$127K
-$2.82K=$282K
-+$1.34K=+$1.34K
-$2.91K=$291K
-+$1.46K=+$1.46K
-+$1.4K=+1400 美元
-+$1.43K=+$1.43K
-$2.52K=$252K
-$2.07K=$207K
-+$1.14K=+$114K
-$2.69K=$269K
-+$1.05K=+$1.05K
-$2.1K=2100 美元
-$2.64K=$264K
-+$1.69K=+$169K
-$1.97K=$197K
-+$1.22K=+$122K
-$1.59K=$159K
--$1.45K=-$1.45K
-$1.19K=119 萬美元
-$3.4K=3400 美元
--$1.97K=-$197K
-$1.12K=$1.12K
-$1.03K=$103K
-$1.24K=$124K
-$1.33K=$133K
-YARLL!!!=亞爾！ ！ ！
-+$1.11K=+$1,11K
-$1.28K=$128K
-$1.45K=145 萬美元
-$1.48K=$1.48K
-$1.08K=$108K
-$1.04K=$104K
--$1.12K=-$112K
--$1.17K=-$117K
--$1.21K=-$121K
--$1.36K=-$136K
--$1.6K=-1600 美元
--$1.74K=-$174K
--$1.82K=-$182K
--$1.9K=-$1900
--$1.98K=-$1.98K
--$1.22K=-$122K
--$1.31K=-$131K
-Increase <color\=green>profit</color> while drunk.=提升 <color\=green>歌唱</color> 喝醉的時候。
-Empowers held items=賦予持有物品力量
--$1K=-1千美元
-$1.18K=118 萬美元
-$1.09K=$109K
-$1.38K=$138K
-/ $1.7K=/ 1700 美元
-Spin for a chance to revert your last <color\=red>loss $</color>.=旋轉就有機會恢復上次的狀態 <color\=red>損失 $</color>.
-$1.63K=$163K
-$1.5K=1500 美元
-$1.25K=125 萬美元
-$1.16K=116 萬美元
-$1.78K=$178K
-$1.7K=1700 美元
-/ $2.7K=/ 2700 美元
-$1.1K=1100 美元
-$2.73K=$273K
-+$1.1K=+1100 美元
-$1.85K=$185K
-$1.95K=$1.95K
-$1.75K=175 萬美元
-$3.38K=$338K
-+$1.38K=+$1.38K
-$2.7K=2700 美元
-+$1.58K=+$158K
-+$1.36K=+$136K
-/ $5.5K=/ 5500 美元
-<noparse></noparse>"Gambling for 72 hours is good for you actually"\\n\\n-Some guy=<noparse></noparse>「賭博 72 小時其實對你有好處」\\n\\n-某個人
-$3.03K=$303K
-+$1.76K=+$176K
-$4.55K=$455K
-+$1.52K=+$152K
-$4.2K=4200 美元
-+$1.41K=+$1,41K
-$5.78K=$578K
-+$2.99K=+$2.99K
-$5.5K=5.5 萬美元
-+$2.4K=+2400 美元
-/ $11K=/ 11,000 美元
-<color\=green>Pays</color> 33% of <color\=red>quota</color> for each body part it shoots off=<color\=green>支付</color> 33%的 <color\=red>配額</color> 對於它發射的每個身體部位
-$5.83K=$583K
-+$1.16K=+$116K
-+$2.72K=+$272K
-+$2.17K=+$217K
-+$1.21K=+$121K
-+$1.62K=+$1.62K
-$4.28K=$428K
-+$1.07K=+$107K
-+$1.31K=+$131K
-+$1.2K=+1200 美元
-+$1.26K=+$126K
-$4.21K=$421K
-+$1.15K=+$1.15K
-$3.62K=$362K
-+$1.04K=+$104K
-$4.06K=$406千美元
-+$1.65K=+$165K
-$5.55K=$555K
-$4.89K=$489K
-+$2.44K=+$244K
-$4.23K=$423K
-+$1.89K=+$1.89K
-$3.57K=$357K
-+$2.75K=+$275K
-+$3.54K=+$354K
-$5.82K=$582K
-+$4.37K=+$437K
-+$2.25K=+$225K
-+$3.82K=+$382K
-$7.2K=7200 美元
-+$1.97K=+$1.97K
-+$3.27K=+$327K
-$6.37K=$637K
-+$1.7K=+1700 美元
-$6.1K=6100 美元
-+$1.42K=+$1.42K
-$5.25K=$525K
-+$1.39K=+$139K
-+$2.92K=+$2.92K
-$5.71K=$571K
-+$2.65K=+$265K
-$5.8K=5800 美元
-+$2.86K=+$286K
-$5.43K=$543K
-+$1.17K=+$117K
-+$2.31K=+$2,31K
-$4.66K=$466K
-$4.4K=4400 美元
-$4.54K=$454K
-$3.99K=$399K
-$4.26K=$426K
-$3.44K=$344K
-+$2.58K=+$258K
-+$3.13K=+$3,13K
-+$2.14K=+$214K
-+$2.42K=+$2.42K
-$3K=3000 美元
-$2.17K=$217K
--$1.1K=-1100 美元
-+$1.87K=+$187K
--$1.37K=-$137K
-+$1.32K=+$132K
-$1.35K=$135K
-0s=0秒
-$5.36K=$536K
-+$3.71K=+$371K
-+$3.68K=+$3.68K
-$4.72K=$472K
-+$3.26K=+$326K
-+$2.83K=+$283K
-$4.07K=$407,000
-$4.94K=$494K
-$4.09K=$409K
-+$1.98K=+$1.98K
-$3.9K=3900 美元
-+$1.13K=+$113K
-$4.97K=$497K
-$2.14K=$214K
-$6.04K=$604K
-$11K=11,000 美元
--$2.48K=-$2.48K
-$1.98K=$1.98K
-$5.04K=$504K
-<noparse></noparse>"I bet, therefore I am"\\n\\n-Descartes=<noparse></noparse>「我打賭，故我在」\\n\\n-笛卡爾
-Rolls back time.=時間回滾。
-$2.19K=$219千美元
-$2.24K=$224K
-+$1.24K=+$124K
-/ $2.6K=/ 2600 美元
-<noparse></noparse>"The casino always welcomes you!"\\n\\n-Mr. Booth=<noparse></noparse>「賭場永遠歡迎您！」\\n\\n-Mr.展位
-$1.66K=$166K
-$1.21K=$121K
-$1.71K=$171K
-$1.96K=$1.96K
-$2.96K=$296K
-+$1K=+1000 美元
-$2.6K=2600 美元
-+$1.08K=+$108K
-$3.34K=$334K
-/ $4.7K=/ 4700 美元
-$2.99K=$299K
-+$1.06K=+$106K
-$3.69K=$369K
-$4.04K=$404K
--$1.83K=-$183K
--$1.49K=-$1.49K
-$1.49K=$149K
--$2.15K=-$215K
--$2.47K=-$247K
--$2.55K=-$255K
--$2.56K=-$256K
-$4.7K=4700 美元
--$3.28K=-$328K
--$2.57K=-$257K
-$1.05K=105,000 美元
-$2.55K=$255K
-+$1.55K=+$1.55K
-/ $2.9K=/ 2900 美元
-$4.6K=4600 美元
-$9.2K=9200 美元
-$2.4K=2400 美元
-+$2.3K=+2300 美元
-$5.3K=5.3 萬美元
-+$3.02K=+$302K
-+$1.28K=+$128K
-$2.9K=2900 美元
-/ $7K=/ 7000 美元
-$5.6K=5600 美元
-$11.2K=11.2 萬美元
-$18.07K=$18.07K
-+$14.22K=+$14,22K
-+$11.2K=+$11,200
-+$2.85K=+$285K
-$17.99K=$17.99K
-+$2.77K=+$277K
-+$2.81K=+$281K
-$18.03K=$18.03K
-$7K=7000 美元
-+$12.73K=+$1273K
-+$8.4K=+8400 美元
-+$1.53K=+$153K
-/ $26K=/ 26,000 美元
-Win 3 games in a row with at least $1.3K bets on money wheel.=在金錢輪盤上投注至少 1,300 美元，連續贏得 3 場比賽。
-Spin Streak=旋轉條紋
-$18.55K=$18.55K
-+$3.33K=+$333K
-$18.32K=$18,32K 美元
-+$13.7K=+$13,700
-+$3.1K=+3100 美元
-+$1.56K=+$156K
-+$15.26K=+$15,26K
-$20.91K=$20,91K 美元
-+$16.82K=+$16.82K
-Jackpot!\n$500.5=大獎！\n500.5 美元
-+$2.08K=+$208K
-+$18.9K=+$18.9K
-+$18.38K=+$18.38K
-+$3.52K=+$352K
-+$3.48K=+$3.48K
-+$17.86K=+$17.86K
-+$17.34K=+$17.34K
-+$3.45K=+$3.45K
-+$3.41K=+$3,41K
-+$16.3K=+$16.3K
-+$3.4K=+3400 美元
-$22.26K=$22,26K 美元
-Jackpot!\n$409.5=大獎！\n409.5 美元
-+$3.79K=+$379K
-+$19.42K=+$19.42K
-+$3.76K=+$376K
-+$21.5K=+$21,500
-+$3.92K=+$3.92K
-$26.42K=$26,42K 美元
-$26K=2.6 萬美元
-+$8.39K=+$8.39K
-/ $50K=/ 5 萬美元
-$25.12K=$25,12K 美元
--$1.3K=-1300 美元
-+$2.62K=+$262K
-$67.25K=$67.25K
-+$42.13K=+$42,13K
-+$44.75K=+$44.75K
-$92.25K=$92.25K
-$50K=5萬美元
-+$65.83K=+$65,83K
-+$15.83K=+$15,83K
-/ $170K=/ 17 萬美元
-$90.55K=$90.55K
--$1.7K=-1700 美元
-+$19.8K=+$19,800
-$93.66K=$93.66K
-+$3.11K=+$3,11K
-+$22.91K=+$22,91K
-+$21.21K=+$21,21K
-+$19.51K=+$19,51K
-$87.09K=$87.09K
-+$17.81K=+$17.81K
-+$44.19K=+$44.19K
-$88.53K=$88.53K
-+$12.71K=+$12,71K
-+$5.1K=+5100 美元
--$5.1K=-$51000
-+$5.34K=+$534K
-+$53.17K=+$53.17K
--$10.2K=-$10,200
-+$15.3K=+$15.3K
--$20.74K=-$20740
-+$32.43K=+$32,43K
--$7.78K=-$7.78K
-$53.16K=$53.16K
-+$24.65K=+$24.65K
--$2.59K=-$259K
--$7.69K=-$769K
-+$14.45K=+$14.45K
-$37.86K=$37.86K
-$42.96K=$42.96K
--$12.79K=-$12790
-+$10.2K=+10,200 美元
--$5.1K | +$10.2K=-5100 美元 | +10,200 美元
-$10.2K=10,200 美元
-+$22.95K=+$22.95K
-$51.46K=$51,46K 美元
-+$21.25K=+$21,25K
-$58.26K=$58.26K
-+$19.55K=+$19,55K
-+$17.85K=+$17.85K
-+$5.2K=+5200 美元
-$60.06K=$60.06K
-+$21.35K=+$21.35K
-+$23.84K=+$23.84K
-$57.45K=$57.45K
-$54.05K=$54.05K
--$8.5K=-$8,500
-+$15.34K=+$15,34K
--$12.75K=-$12750
-$37.05K=$37.05K
--$4.25K=-$425K
--$1.66K=-$166K
-$37.9K=$37.9K
-+$2.51K=+$251K
--$5.91K=-$591K
-+$7.61K=+$7,61K
--$14.41K=-$14,41K
-$34.5K=$34.5K
--$2.1K=-2100 美元
-$41.72K=$41,720 美元
-+$12.31K=+$12,31K
-$33.22K=$33,22K 美元
--$10.6K=-$10.6K
-$28.97K=$28.97K
--$14.85K=-$14.85K
--$5.98K=-$598K
--$40.82K=-$40.82K
--$2.99K=-$2.99K
-+$9.01K=+$901K
--$3.47K=-$347K
--$34.8K=-$34.8K
-$6.02K=$602K
-$170K=17 萬美元
--$86.23K=-$86,23K
--$79.54K=-$79.54K
--$19.87K=-$19.87K
-$5.02K=$502K
-Get <color\=yellow>ticket</color> on <color\=green>profit</color>.=獲取 <color\=yellow>票</color> 上 <color\=green>歌唱</color>.
- Retrieve Items= 檢索物品
-$1.47K=$147K
-$1.29K=$129K
-$1.01K=$101K
-/ $3.2K=/ 3200 美元
-$1.82K=$182K
-$1.3K=1300 美元
-$2.11K=$211千美元
-$3.35K=$335K
-+$1.3K=+1300 美元
-$3.2K=3200 美元
-/ $5.6K=/ 5600 美元
-$3.24K=$324K
-$3.39K=$339K
-+$2.16K=+$216K
-$3.45K=$3.45K
-$3.31K=$331K
-+$2.05K=+$205K
-$3.58K=$358K
-+$1.94K=+$1.94K
-$3.33K=$333K
-$3.22K=$322K
-+$1.83K=+$183K
-$2.97K=$297K
-+$1.72K=+$172K
-$3.32K=$332K
-$3.21K=$321K
-+$1.61K=+$161K
-+$1.5K=+1500 美元
-$2.85K=$285K
-$2.74K=$274K
-$2.35K=$235K
-$3.04K=$304K
-$2.45K=$245K
-$2.2K=2200 美元
-+$1.18K=+$1.18K
-+$2.93K=+$293K
-+$2.82K=+$282K
-$4.46K=$446千美元
-$4.35K=$435K
-+$3.04K=+$304K
-+$4.14K=+$414K
-$5.85K=$585K
--$1.1K | +$2.2K=-1100 美元 | +2200 美元
-+$1.09K=+$109K
-Bet total of $5.5K on keno.=基諾賭注總計 5,500 美元。
-$5.57K=$557K
-$8.8K=8800 美元
-$7.49K=$7.49K
-+$6.34K=+$634K
-+$2.2K=+2200 美元
-$7.05K=$705千美元
-$6.83K=$683K
-$7.07K=$70700 美元
-$6.52K=$652K
-+$5.79K=+$579K
-+$6.89K=+$689K
-$7.62K=$762K
-$7.34K=$734K
-+$1.12K=+$1.12K
-$7.91K=$7.91K
-$7.63K=$763K
-$7.35K=$735K
-$8.48K=$8.48K
-$10.4K=10,400 美元
-+$7.99K=+$7.99K
-+$2.53K=+$253K
-$11.52K=$11,520 美元
-+$5.67K=+$567K
-/ $24K=/ 24,000 美元
- Pick up= 撿起
-$11.56K=$11,560 萬美元
-+$2.57K=+$257K
-+$7.39K=+$739K
-+$6.79K=+$679K
-$10.36K=$10,36K 美元
--$1.5K=-1500 美元
-+$6.19K=+$619K
-$6.76K=$676K
-+$5.59K=+$559K
-$9.45K=$9.45K
-+$3.29K=+$329K
-+$1.23K=+$123K
-$8.58K=$858K
-+$6.22K=+$622K
-$12.14K=$12,14K 美元
-+$3.57K=+$357K
-+$4.93K=+$493K
-+$5.92K=+$592K
-$11.84K=$11,840 美元
-+$5.62K=+$562K
-$11.54K=$11,540 美元
--$1.8K=-1800 美元
-$5.24K=$524K
--$4.5K=-$4500
-+$2.02K=+$202K
-$1.94K=$194K
--$1.07K=-$107K
-+$5.4K=+5400 美元
-+$4.76K=+$476K
-+$2.18K=+$2.18K
--$5.4K=-5400 美元
-$5.2K=5200 美元
--$1.58K=-$158K
-+$1.33K=+$133K
-+$2.6K=+2600 美元
-$2.02K=2020 美元
-+$1.86K=+$186K
--$1.26K | +$2.53K=-126 萬美元 | +$253K
-$2.53K=$253K
--$1.26K=-$126K
-$3.82K=$382K
-+$2K=+2000 美元
--$3.74K=-$374K
-+$3.81K=+$381K
-+$4.61K=+$461K
--$4.46K=-$4.46K
-$5.12K=$512K
-$5.84K=$584K
-$4.64K=$464K
-$3.92K=$392K
-$4.16K=$416千美元
--$3.02K=-$302K
-+$2.21K=+$221K
-$4.88K=$488K
-$11.23K=$11,23K 美元
-+$1.44K=+$1.44K
-+$7.12K=+$7.12K
-+$4.91K=+$491K
-$9.91K=$9.91K
-+$6.52K=+$652K
--$1.44K=-$144K
-$7.15K=$7.15K
-$6.43K=$643K
-+$5.32K=+$532K
--$5.18K=-$518K
--$5.83K=-$583K
-+$30.94K=+$30.94K
-$24K=2.4 萬美元
-$36.77K=$3677K
-+$25.26K=+$25,26K
--$11.01K=-$11,01K
-+$27.91K=+$27,91K
-+$30.44K=+$30,44K
-/ $77K=/ 7.7 萬美元
-Traffic Monster=交通怪物
-<noparse></noparse><noparse></noparse>Stats for day 6=<noparse></noparse><noparse></noparse>第 6 天的統計數據
-$37.74K=$37.74K
-+$31.4K=+$31,400
--$1.93K=-$193K
-+$25.63K=+$25,63K
--$3.85K=-$385K
-+$21.78K=+$21.78K
-$28.92K=$28.92K
--$4.37K=-$437K
-+$1.93K=+$1.93K
--$3.67K=-$367K
-+$19.85K=+$19.85K
-$27.7K=27700 美元
-$27.79K=$27,790 萬美元
-+$19.94K=+$19.94K
--$2.4K=-2400 美元
-$20.59K=$20,590 美元
--$6.07K=-$607K
-+$15.14K=+$15,14K
-+$5.02K=+$502K
-+$12.74K=+$12,740
-$20.81K=$20,81K 美元
-$16.01K=$16.01K
-+$10.34K=+$10,34K
--$5.85K=-$585K
-+$7.94K=+$7.94K
--$4.72K=-$472K
-$14.74K=$14,740 美元
-+$3.53K=+$353K
-$9.94K=$9.94K
--$7.12K=-$7.12K
-+$5.54K=+$554K
-$7.54K=$754K
-+$3.14K=+$314K
--$1.89K=-$1.89K
--$9K=-9千美元
-+$4.5K=+4500 美元
-$7.02K=$7.02K
--$10.89K=-$10,890
-$10.19K=$10.19K
-+$5.06K=+$506K
-+$7.28K=+$728K
-$7.14K=$714K
--$2.27K=-$227K
--$11.66K=-$11,660
--$12.43K=-$12,43K
--$13.2K=-$13.2K
--$13.97K=-$13.97K
-$4.83K=$483K
-+$1.54K=+$154K
--$2.8K=-$2800
-+$4.48K=+$4.48K
-$10.5K=10,500 美元
-+$7.7K=+7700 美元
--$6.27K=-$627K
-$9.73K=$973K
-+$14.55K=+$14,55K
-+$19.03K=+$19,03K
-$23.51K=$23,51K 美元
--$7.04K=-$704K
--$7.81K=-$781K
-$12.37K=$12,37K 美元
--$8.58K=-$8.58K
-+$9.43K=+$9.43K
--$9.35K=-$9.35K
-+$7.03K=+$703K
-$8.43K=$843K
--$10.12K=-$10,12K
--$2.11K=-$211K
-+$4.92K=+$492K
-$2.68K=$268K
--$1.91K=-$191K
-+$18.12K=+$18.12K
-+$6.16K=+$616K
-$24.28K=$24,280 美元
--$8.17K=-$817K
-+$20.57K=+$20,57K
-+$4.11K=+$4,11K
--$4.06K=-$406K
-$28.02K=$28.02K
-+$23.65K=+$23.65K
-+$10.68K=+$10.68K
-+$4.71K=+$471K
-$43.73K=$43,730 萬美元
-+$3.85K=+$385K
-+$29.04K=+$29.04K
-+$22.88K=+$22.88K
--$7.7K=-7700 美元
--$3.8K=-$3800
-+$24.42K=+$24.42K
--$4.79K=-$479K
-+$28.27K=+$28,27K
--$2.18K=-$218K
-$40.35K=40,350 美元
-+$27.5K=+$27.5K
--$19K=-19,000 美元
--$17.66K=-$17.66K
--$22.41K=-$22,41K
--$4.75K=-$475K
-$8.9K=8.9 萬美元
-+$9.24K=+$924K
-+$26.73K=+$26,73K
--$15.8K=-$15,800
-+$6.62K=+$662K
-$30.15K=$30.15K
-$77K=7.7 萬美元
--$6.62K=-$662K
--$15.46K=-$15,46K
--$10.61K=-$10,61K
-$26.73K=$2673K 美元
-$29.15K=$29.15K
-$1.11K=$111K
-$1.77K=$177K
-/ $2.1K=/ 2100 美元
-$6.8K=6800 美元
-+$2.47K=+$2.47K
-$3.56K=$356K
-$3.65K=$365K
-+$1.88K=+$1.88K
-/ $4.9K=/ 4900 美元
-$4.39K=$439K
-$8.03K=$803K
-+$3.75K=+$375千
-$4.9K=4900 美元
-/ $12K=/ 12,000 美元
-$8.27K=$827K
-$8.51K=$851K
-$7.19K=$7.19K
--$1.2K=-1200 美元
-+$6.1K=+$61000
-+$5.98K=+$5.98K
-+$5.87K=+$587K
-$6.47K=$647K
-+$5.8K=+5800 美元
-$7.01K=$701K
-+$5.5K=+5500 美元
-$10.01K=$10,01K
-+$7K=+7000 美元
-$10.13K=10,130 美元
-+$6.88K=+$688K
-$9.55K=$955K
-+$2.36K=+$236K
-+$6.67K=+$667K
-$9.48K=$9.48K
-+$6.55K=+$655K
-$8.16K=$816K
-+$6.43K=+$643K
-$8.28K=$828K
-$8.54K=$854K
-+$6.45K=+$6.45K
-+$6.51K=+$651K
-+$6.57K=+$657K
-+$6.63K=+$663K
-+$1.96K=+$1.96K
-$9.92K=$9.92K
-+$6.99K=+$699K
-+$6.69K=+$669K
-+$6.75K=+$675K
-$12.35K=$12,35K 美元
-+$4.4K=+4400 美元
-+$6.9K=+$6900
-$12K=12,000 美元
-+$4.33K=+$433K
-+$3.6K=+3600 美元
-/ $23K=/ 23,000 美元
-$10.91K=$10,91K 美元
-+$6.91K=+$691K
-+$2.95K=+$2.95K
-$9.46K=$9.46K
-$8.88K=$888K
-+$6.33K=+$633K
-$7.43K=$743K
-+$3.05K=+$305K
-+$5.41K=+$541K
-$6.12K=$612K
--$1.25K=-$125K
-$6.46K=$646K
-+$7.25K=+$725K
--$2.41K=-$2,41K
-$5.88K=$588K
-+$6.56K=+$656K
--$2.21K=-$221K
--$2.79K=-$279K
-$4.81K=$481K
-$8.89K=$889K
-+$3.38K=+$3.38K
-$8.2K=8.2 萬美元
-$5.66K=$566K
--$1.38K=-$138K
--$1.16K=-$1.16K
-+$5.18K=+$518K
-+$6.21K=+$621K
--$1.73K=-$173K
-$5.53K=$553K
--$2.28K=-$228K
--$2.84K=-$284K
-+$9.66K=+$9.66K
-$7.87K=$787K
--$4.29K=-$429K
-+$7.59K=+$759K
-$0 | +$1.04K=0 美元 | +$104K
--$6.33K=-$633K
-+$7.6K=+7600 美元
-+$7.67K=+$767K
--$5.8K=-$5800
-$3.17K=$317K
-+$1.6K=+1600 美元
-+$3.9K=+$3900
-+$1.02K=+$102K
-$3.15K=$3.15K
-$2.93K=$293K
--$2.85K=-$285K
--$1.69K=-$1.69K
-$23K=2.3 萬美元
--$9.2K=-$9200
--$6.11K=-$611K
--$3.7K=-$3700
-$1.15K=115 萬美元
-/ $1.6K=/ 1600 美元
+Status: Reloaded moderation lists.=狀態：重新載入審核清單。
+Status: Requested player dump.=狀態：請求播放器轉儲。
+Status: Current lobby requested.=狀態：目前大廳已請求。
+Status: [{{A}} {{B}}] Current lobby SteamID: {{C}}=狀態：[{{A}} {{B}}] 當前大廳 SteamID：{{C}}
+Status: Leave lobby requested.=狀態：已要求離開大廳。
+Status: [{{A}} {{B}}] LeaveLobby invoked.=狀態：[{{A}} {{B}}] 已呼叫離開大廳。
